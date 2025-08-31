@@ -61,4 +61,37 @@ Professor Stephen Cranefield, University of Otago
 
 ### Public Signatories
 
+_As of 10:30am, 01/09/25_
+
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
+
+Polly Mckinnon  
+Paul Thistoll, Rights Aotearoa  
+Dr Rebecca Downes, Te Herenga Waka - Victoria University of Wellington  
+Caitlin Mills  
+Diana Yukich  
+Elizabeth Knox  
+Christine Price  
+Nicola Hopkins  
+Jennifer Ward  
+David James Thomsen  
+Anne Collins  
+Jordan MacLachlan  
+Toni Potter  
+Mandy Henk, MLS  
+Christopher Bell  
+Laura Black  
+Mike Kilpatrick  
+Renee Sturch  
+Frankie Karetai Wood-Bodley, Queerly Legal  
+Prof. Paul Kruger  
+Frankie Karetai Wood-Bodley  
+Jack Weekly, Bupper  
+Dr. Kevin Veale, Aotearoa Communication & Media Scholars   
+Craig Johnston  
+Dr Annisa Rahmalia, MPH  
+Amelia Bentley  
+Beverly Fletcher  
+Bianca Grizhar  
+Andrea  Konnerth   
+Richard Littauer  
