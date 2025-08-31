@@ -58,6 +58,8 @@ Professor Grant Dick, University of Otago
 Dr Veronica Liesaputra, University of Otago  
 Professor Brendan McCane, University of Otago  
 Professor Stephen Cranefield, University of Otago  
+Associate Professor Stephen Hill, Massey University  
+Dr Lech Szymanski, University of Otago  
 
 ### Public Signatories
 
