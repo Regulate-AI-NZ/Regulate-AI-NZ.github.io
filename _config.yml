@@ -1,0 +1,10 @@
+title: Regulate AI NZ
+description: "A call to the NZ Parliament to regulate AI"
+url: "https://regulateai.nz"   
+baseurl: ""                               
+google_analytics: G-R2BRB30PQ5
+remote_theme: pages-themes/cayman@v0.2.0
+repository: Regulate-AI-NZ/Regulate-AI-NZ.github.io
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-github-metadata
