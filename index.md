@@ -52,7 +52,7 @@ Dr Emily O’Riordan, Victoria University of Wellington
 Lee Timutimu, Personal Capacity  
 Frith Tweedie, Simply Privacy  
 Dr Olivier Jutel, University of Otago  
-aimee whitcroft, Data D4 & Smart Cities Council  
+aimee whitcroft, Data 4D & Smart Cities Council & Open Data Charter   
 Associate Professor Marcus Frean, Victoria University of Wellington  
 Professor Grant Dick, University of Otago  
 Dr Veronica Liesaputra, University of Otago  
@@ -63,7 +63,7 @@ Dr Lech Szymanski, University of Otago
 
 ### Public Signatories
 
-_As of 10:30am, 01/09/25_
+_As of 5pm, 01/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -126,3 +126,5 @@ PJ Manney
 Dr Harisu Shehu, Victoria University of Wellington   
 Kat Greenbrook  
 Josh Mortensen   
+Dr Hendrik Jacob Stolk  
+Jacqueline Braid  
