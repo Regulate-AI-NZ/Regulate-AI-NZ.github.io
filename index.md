@@ -63,7 +63,7 @@ Dr Lech Szymanski, University of Otago
 
 ### Public Signatories
 
-_As of 5pm, 01/09/25_
+_As of 8am, 02/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -128,3 +128,29 @@ Kat Greenbrook
 Josh Mortensen   
 Dr Hendrik Jacob Stolk  
 Jacqueline Braid  
+Dr Danielle Julian  
+Rachel O'Brien  
+Dr Tze Ming Mok  
+Paula Browning  
+Simeon Lodge  
+Dr Ilija Tolich  
+Michael Gray  
+Richard Harrison   
+Lynn Peake  
+Rachel Ridley   
+Christopher Snyder  
+Chris Chetland, Music Production Guild of Aotearoa/NZ  
+Rachel Antony, Greenstone TV  
+Anne Campbell  
+Joanna Mcmenamin  
+Tristam Sparks, Massey University  
+Karepa Wall   
+Venetia King  
+Professor Joshua Fairfield, Washington and Lee University School of Law  
+Stephen Cope  
+Rebecca Robin   
+Georgina Till  
+Ailsa Cuthbert  
+Dr Andelka M. Phillips  
+Ben Creet  
+Courtney Collins  
