@@ -97,3 +97,32 @@ Beverly Fletcher
 Bianca Grizhar  
 Andrea  Konnerth   
 Richard Littauer  
+Dave Lane, Lane Ventures Ltd  
+Helen Varley Jamieson  
+Elisabeth Caligari  
+Peter Fowler  
+Ally Doe  
+Liam Daly  
+Emily White  
+Róisín Harris  
+Dr Trish McMenamin  
+Isaac Freeman  
+Rebecca Wiliams  
+Dr. Kaan Demir  
+Ash Murphy  
+Maia Hall, Auckland Women's Centre - Te Wāhi Wāhine o Tāmaki Makaurau  
+Associate Professor Barbara Allen, School of Government, Victoria University of Wellington  
+Dr Amanda Reilly, Te Herenga Waka, Victoria University of Wellington  
+Prashanth Jayaprakash  
+James Gardner  
+Dongkyu Kang, a signatory from Korea.  
+Julianne Hickey, Fambirai   
+Samantha Murphy   
+Prof Steve Reeves, University of Waikato  
+Ana McAllister  
+Justin Kim  
+Naashon Zalk  
+PJ Manney  
+Dr Harisu Shehu, Victoria University of Wellington   
+Kat Greenbrook  
+Josh Mortensen   
