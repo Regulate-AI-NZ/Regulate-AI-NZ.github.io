@@ -63,7 +63,7 @@ Dr Lech Szymanski, University of Otago
 
 ### Public Signatories
 
-_As of 8am, 02/09/25_
+_As of 12pm, 02/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -154,3 +154,27 @@ Ailsa Cuthbert
 Dr Andelka M. Phillips  
 Ben Creet  
 Courtney Collins  
+Charlotte Holden  
+Sorcha Ruth  
+Abigail Judson  
+Jennifer Nagle, The New Zealand Society of Authors Te Puni Kaituhi o Aotearoa (PEN NZ) Inc  
+Emma Pond  
+Murray Lynch, Playmarket  
+Alice Shearman, New Zealand Writers Guild | Puni Taatuhi o Aotearoa  
+Īhaka Martyn  
+Peter Benson - Principal AI Researcher, Neural Horizons Ltd  
+Louise Kellerman  
+Duane Leo, National Secretary, Public Service Association Te Pūkenga Here Tikanga Mahi  
+Dr. David Thompson  
+Hannah Betts  
+Kay Ellmers, Ngā Aho Whakaari  
+Maxwell Clarke, MSc Machine Learning VUW  
+Mandy Hager  
+Dr Ben Smith, p-1.ai  
+Sioux Macdonald, Film Crew Services 1997 Ltd  
+Dr Eddyn Treacher  
+Sandy Gildea, Screen Producers NZ (Spada)  
+Allison Horsley  
+Daniel Watterson, founder W.E.L, LLB (Hons 1st)  
+Ruben Castaing  
+TIM PREBBLE  
