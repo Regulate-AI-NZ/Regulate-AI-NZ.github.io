@@ -63,7 +63,7 @@ Dr Lech Szymanski, University of Otago
 
 ### Public Signatories
 
-_As of 8:45pm, 02/09/25_
+_As of 8:45am, 02/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -201,3 +201,10 @@ Justin Ryan
 Kate Edgar   
 Dagan McGregor  
 Dr Bronwyn Lennox Thompson   
+Carina Letizia Meares   
+Tania O'Regan   
+Lerk Shih Poh Stedman   
+Lani Raukawa Field  
+Abdullah Al Mamun , Victoria University of Wellington   
+Stephanie Fill  
+Dr Sarah Hendrica Bickerton   
