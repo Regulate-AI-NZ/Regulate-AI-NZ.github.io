@@ -63,7 +63,7 @@ Dr Lech Szymanski, University of Otago
 
 ### Public Signatories
 
-_As of 12pm, 02/09/25_
+_As of 3:30pm, 02/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -178,3 +178,14 @@ Allison Horsley
 Daniel Watterson, founder W.E.L, LLB (Hons 1st)  
 Ruben Castaing  
 TIM PREBBLE  
+Cass Maughan  
+Mac Jordan  
+Adrian Hebron  
+Jiun Youn, Victoria University of Wellington  
+Stu Cole  
+Shane Bosher  
+AJ Mason, Innovation Queenstown  
+Richard Wagstaff, New Zealand Council of Trade Unions Te Kauae Kaimahi  
+Rachael McGregor  
+Dr Colin Beardon  
+Tui Ruwhiu, Directors and Editors Guild of Aotearoa New Zealand  
