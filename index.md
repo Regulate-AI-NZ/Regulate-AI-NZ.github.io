@@ -63,7 +63,7 @@ Dr Lech Szymanski, University of Otago
 
 ### Public Signatories
 
-_As of 3:30pm, 02/09/25_
+_As of 8:45pm, 02/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -189,3 +189,15 @@ Richard Wagstaff, New Zealand Council of Trade Unions Te Kauae Kaimahi
 Rachael McGregor  
 Dr Colin Beardon  
 Tui Ruwhiu, Directors and Editors Guild of Aotearoa New Zealand  
+Courtney Sina Meredith, Publishers Association of New Zealand  
+Terry Bellamak  
+Prof Cheryl Brown, University of Canterbury   
+Marko George Alach   
+Kay Jones  
+Louise Carter   
+Daniella Curry  
+Amanda Aggio  
+Justin Ryan  
+Kate Edgar   
+Dagan McGregor  
+Dr Bronwyn Lennox Thompson   
