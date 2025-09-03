@@ -64,7 +64,7 @@ Professor Alexandra Andhov, University of Auckland
 
 ### Public Signatories
 
-_As of 1pm, 03/09/25_
+_As of 4:30pm, 03/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -218,3 +218,9 @@ Helena Page
 David Udy  
 Hamish Fraser  
 Dr Leon Salter  
+Steve Adams  
+Alexander van Wel  
+Samuel Mata  
+Melanie Laville-Moore, The Coalition for Books  
+Dr Erin Harrington  
+Shaun Sinclair  
