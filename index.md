@@ -61,10 +61,11 @@ Professor Stephen Cranefield, University of Otago
 Associate Professor Stephen Hill, Massey University  
 Dr Lech Szymanski, University of Otago  
 Professor Alexandra Andhov, University of Auckland  
+Professor Michael Winikoff, Victoria University of Wellington
 
 ### Public Signatories
 
-_As of 4:30pm, 03/09/25_
+_As of 03/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -224,3 +225,10 @@ Samuel Mata
 Melanie Laville-Moore, The Coalition for Books  
 Dr Erin Harrington  
 Shaun Sinclair  
+Dr Bill Rosenberg  
+Tom Hovey, Diagram  
+Nathan Hall  
+Frank Rueter, OHUfx   
+Anne-Marie Colebrook   
+Whetū Fala   
+Catherine Mules  
