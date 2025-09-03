@@ -60,10 +60,11 @@ Professor Brendan McCane, University of Otago
 Professor Stephen Cranefield, University of Otago  
 Associate Professor Stephen Hill, Massey University  
 Dr Lech Szymanski, University of Otago  
+Professor Alexandra Andhov, University of Auckland  
 
 ### Public Signatories
 
-_As of 8:45am, 02/09/25_
+_As of 1pm, 03/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -208,3 +209,12 @@ Lani Raukawa Field
 Abdullah Al Mamun , Victoria University of Wellington   
 Stephanie Fill  
 Dr Sarah Hendrica Bickerton   
+Barbara L Howe  
+Dr Douglas Campobell, University of Canterbury  
+Jo Oliver, Recorded Music NZ  
+Ana-Maria Mocanu  
+Patrick PIlcher  
+Helena Page   
+David Udy  
+Hamish Fraser  
+Dr Leon Salter  
