@@ -232,3 +232,18 @@ Frank Rueter, OHUfx
 Anne-Marie Colebrook   
 Whetū Fala   
 Catherine Mules  
+Emily Penberthy  
+Tom Malthus  
+Ruth Johnson  
+Kane Feaver, Advertising and Illustrative Photographers Association  
+Laura Graham  
+Florence S. Fournier  
+Mr Lawton Hakaraia  
+Matt Plummer  
+Mathias Hansen  
+Jeremy Craig  
+Alastair Cottle  
+Matthew Baeriswyl  
+Kristi Illingworth  
+Kyle Beaumont   
+Vihang Vipul Garud  
