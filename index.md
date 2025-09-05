@@ -65,7 +65,7 @@ Professor Michael Winikoff, Victoria University of Wellington
 
 ### Public Signatories
 
-_As of 03/09/25_
+_As of 05/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -247,3 +247,18 @@ Matthew Baeriswyl
 Kristi Illingworth  
 Kyle Beaumont   
 Vihang Vipul Garud  
+Joanne Dean  
+Vanessa Ericksen   
+Dr. Kim Morgan, Dunedin Summer Shakespeare (and) Hic Sunt Dracones Productions  
+Matthew Morgan  
+Jennifer Leith, Amelie Ltd  
+Chris Schraders  
+Zac Neill  
+Jia Wei Leong  
+Karen Mary Soich, Karen Soich Law  
+Rachel Daniels  
+Jesse Richardson  
+Mr Adwin Singh  
+Prof Natalie Baird, Te Whare Wānanga o Waitaha | University of Canterbury  
+Rachael Evans, University of Canterbury  
+Dr Val O'Reilly  
