@@ -65,7 +65,7 @@ Professor Michael Winikoff, Victoria University of Wellington
 
 ### Public Signatories
 
-_As of 05/09/25_
+_As of 07/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
