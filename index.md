@@ -262,3 +262,13 @@ Mr Adwin Singh
 Prof Natalie Baird, Te Whare Wānanga o Waitaha | University of Canterbury  
 Rachael Evans, University of Canterbury  
 Dr Val O'Reilly  
+Sara Roberts  
+Dr Suzanne Woodward, Waipapa Taumata Rau, University of Auckland  
+Mandeep singh  
+Vaughan Spurdle  
+Harry Arnott  
+Rebecca Wilson  
+Andrew Todd, New Zealand Writers Guild  
+Professor Ursula Cheer, Faculty of Law, University of Canterbury  
+Tamara Liebman  
+William Odey  
