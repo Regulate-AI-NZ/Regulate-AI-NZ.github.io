@@ -65,7 +65,7 @@ Professor Michael Winikoff, Victoria University of Wellington
 
 ### Public Signatories
 
-_As of 07/09/25_
+_As of 08/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -272,3 +272,32 @@ Andrew Todd, New Zealand Writers Guild
 Professor Ursula Cheer, Faculty of Law, University of Canterbury  
 Tamara Liebman  
 William Odey  
+Khai Dye-Brinkman  
+Carolina Mitchell, LLB, BA student  
+Nathan Hutchison  
+Julie Thomas  
+Thomas Kay  
+Jane Myhill  
+Donna Barber  
+SImon Burge  
+Melanie Duncan  
+Brett Mann  
+Helen Mann   
+Leah Brooks  
+Nick Mann  
+Alice-Louise Mann  
+Sheree Bright  
+Joyce Gardner  
+Astrid Andersen  
+Sheree obri  
+Leah Brooks  
+Dr Brett Mann  
+Alice-Louise Barker  
+Nick Stuart  
+Jean Fletcher  
+Sasha Vlassoff  
+Dr Sanjana Hattotuwa  
+Prof. Greg O’Beirne  
+Isabella White  
+Rachael Norcross   
+Dr Rosa Hughes-Currie  
