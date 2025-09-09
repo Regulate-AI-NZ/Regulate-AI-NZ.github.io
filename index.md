@@ -65,7 +65,7 @@ Professor Michael Winikoff, Victoria University of Wellington
 
 ### Public Signatories
 
-_As of 08/09/25_
+_As of 10/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -301,3 +301,23 @@ Prof. Greg O’Beirne
 Isabella White  
 Rachael Norcross   
 Dr Rosa Hughes-Currie  
+Laura Johnstone   
+Dr Tristan Katz  
+Dr Karen Easterbrook  
+Lilian Lindner  
+Simon Taylor  
+Amanda Smidt, The Career Development Company  
+Philip Worthington  
+Ben Colgan  
+Elizabeth Greatnews, Te Herenga Waka—Victoria University of Wellington  
+Caleb Hochstetler  
+Prof. Neil Dodgson  
+Marlon Richards  
+Dr Rob Cruickshank  
+Alice Cruickshank   
+Timothy Jones  
+Theo Seffusatti, Heard & Seen Publishing  
+Emmeline White  
+Vivian Chandra  
+Sarah Bell  
+Sarah Flynn   
