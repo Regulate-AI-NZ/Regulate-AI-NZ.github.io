@@ -62,10 +62,11 @@ Associate Professor Stephen Hill, Massey University
 Dr Lech Szymanski, University of Otago  
 Professor Alexandra Andhov, University of Auckland  
 Professor Michael Winikoff, Victoria University of Wellington
+Matt Farrington, Personal Capacity  
 
 ### Public Signatories
 
-_As of 10/09/25_
+_As of 11/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -320,4 +321,11 @@ Theo Seffusatti, Heard & Seen Publishing
 Emmeline White  
 Vivian Chandra  
 Sarah Bell  
-Sarah Flynn   
+Sarah Flynn 
+Archana Atmakuri  
+Geoff Palmer  
+Rebecca Ericksen  
+Suzie Tingley  
+Matt Farrington  
+Emeritus Professor Rowena Cullen  
+Helen Thomas    
