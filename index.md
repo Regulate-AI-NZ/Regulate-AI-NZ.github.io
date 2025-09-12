@@ -61,7 +61,7 @@ Professor Stephen Cranefield, University of Otago
 Associate Professor Stephen Hill, Massey University  
 Dr Lech Szymanski, University of Otago  
 Professor Alexandra Andhov, University of Auckland  
-Professor Michael Winikoff, Victoria University of Wellington
+Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
 ### Public Signatories
@@ -326,6 +326,6 @@ Archana Atmakuri
 Geoff Palmer  
 Rebecca Ericksen  
 Suzie Tingley  
-Matt Farrington  
 Emeritus Professor Rowena Cullen  
 Helen Thomas    
+Ella Yiannoutsos, Grammelot Productions  
