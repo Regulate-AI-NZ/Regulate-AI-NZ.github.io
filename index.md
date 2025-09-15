@@ -64,9 +64,9 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
-### Public Signatories
+### Public Signatories (265 and counting)
 
-_As of 11/09/25_
+_As of 15/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -329,3 +329,8 @@ Suzie Tingley
 Emeritus Professor Rowena Cullen  
 Helen Thomas    
 Ella Yiannoutsos, Grammelot Productions  
+Amanda Riddell, Amanda Michelina's Progressive Party  
+Robin Marshall, Mdigital  
+Siobhan Patia  
+Victoria Louise Smith  
+Dr Tim Corballis, School of Science in Society, Te Herenga Waka VUW  
