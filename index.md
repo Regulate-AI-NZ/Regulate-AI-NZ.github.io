@@ -64,9 +64,9 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
-### Public Signatories (265 and counting)
+### Public Signatories (447 and counting)
 
-_As of 15/09/25_
+_As of 18/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -334,3 +334,185 @@ Robin Marshall, Mdigital
 Siobhan Patia  
 Victoria Louise Smith  
 Dr Tim Corballis, School of Science in Society, Te Herenga Waka VUW  
+Andrew Stroud  
+Graeme Trouble  
+Jadin Leslie  
+Laura McGeorge  
+Kim Sinclair  
+Richard Phillps  
+Corrin Ellingford AMPAS  
+Ms Joanna Marshall  
+James Fink-Jensen  
+Alex McShane  
+Mark Minors  
+Tina Cleary  
+Annelise Yarrell  
+Robyn Davies  
+Tom Allan  
+Benjamin Sada-Aki Annabelle  
+Sam Cotter-Dephoff  
+Montgomery John Redpath Sansom  
+Ashlee Stevens  
+Zoe Harvey-White  
+Patricia Compter  
+Jessy McNamara  
+Ethan Hart  
+Bridie MacInnes  
+Ryan Lloyd  
+Bryce Pearce   
+michael paletta  
+Anna Jamieson  
+Felicity Letcher, Main Reactor  
+Mick Sinclair  
+Sarah McLeod  
+Leela Menon  
+Sebastian Kerebs  
+Eoin O'Liddigh  
+Aaron Morton  
+Amand Weaver  
+Josh Wallace  
+Steve King  
+Jeremy Anderson   
+Shea William McKenzie  
+Ben Panckhurst  
+Terri Kilmartin   
+Wheeler Luke  
+Anna Walsh-Wrightson  
+Jessica George  
+Johnathan Guest  
+Wilson Sze  
+Jonathan Bowden  
+Jo Raj  
+Ant Sang  
+Crystel Tottenham  
+Claire Kelly  
+Michael Gordon Holloway  
+Maximilian Carey Oldfield  
+Aaron Weir  
+Robert Pendergrast  
+Helen Naulls  
+sam fraser, sam fraser  
+Gabriel Carpanedo   
+Benjamin Kumar Witter  
+Lisa Foothead  
+Julian Braatvedt   
+Braedan Gare  
+Christopher Pryor  
+William Roud  
+Terri Cavanagh  
+Carolyn Sylvester  
+John Cavil NZCS (Cinematographer)  
+Michael Kim  
+Jacob Leaf  
+Mandy Jacob  
+Andy Johnson, New Zealand Broadcasting School, Ara   
+Ross McKay  
+Sez Niederer  
+Jennifer Butcher  
+Gordon Smith  
+Tessa McEwing  
+Hannah Woods   
+Giona Bridler  
+Jo Tagg  
+Kimberly Y Frost  
+Dale Bradley  
+Derrick Sims  
+James Farrow  
+Sally-Ann Louisson  
+David Paul nzcs ( Cinematographer)   
+Matt Asunder  
+Shenoa Patricia MacAulay  
+Esther Cahill-Chiaroni  
+Shion Alizadeh  
+Victoria Baldwin, Photographer  
+Gilly lawrence  
+Holly Pollock  
+Dana Wilton  
+Briar Collard  
+Luke Haigh  
+Rose Worley  
+Malcolm Clement  
+Benjamin Sutherland  
+Barbara Darragh  
+Melanie Simmons  
+Roydon Christensen   
+Peta Sinclair  
+David Mills  
+Jade Valour  
+Paul Drebing  
+Peter Kraan  
+Laetitia Belen  
+Mel Turner, Ground Control NZ Ltd  
+Benn Jae  
+Brett Higginson  
+Quentin Whitwell  
+Brett Larsen  
+Polly McKinnon  
+Matt Hunt  
+Melissa Sue Turner   
+Hamish Bruce   
+Tasha Lang  
+Jessica Bennett  
+Kendra Fleming  
+Peter Field  
+Barbara Tee  
+Sean Rhynd  
+Jean-Luc azzis  
+Kim Thomas  
+Richard Schuler  
+Martine Deluxe  
+Nicholas Joseph Willoughby   
+Nicolette Hurnen  
+Aidan Locke   
+Dave Kwant  
+Matt Holmes  
+Cathy Adams  
+Carmel Rata  
+Evan Pardington  
+Neil proctor   
+Tayla Rose Scully  
+Holly Norman  
+Simon Ambridge, Binary Films Ltd  
+jonas tawharu  
+Ora Simpson  
+George Meehan  
+Rebecca Rowe  
+Gin  
+Davin Voot  
+Gwen Lin  
+Steven Harris  
+Sophie Lloyd  
+John McKay, POW Studios Limited  
+Lindsay Gough  
+Bayley Broome-Peake  
+Connie Beatson-Smith  
+Lisa Brady  
+Sharon Murphy, Broadcast Arts Film & Video Unit Ltd  
+Meg Douglas, Scottie Productions Limited  
+Kate McGill  
+Melissa Conway, Screen Music & Sound Guild of NZ  
+Clare Briffett  
+Janice Herewini-Mulligan  
+Sam Kent  
+Sarah Bailey-Harper, Textile Collective Ltd  
+Livne Ore  
+David Jacobs, Better Public Media Trust  
+Dr Marie Henderson  
+Belindalee Hope  
+Katia Collins  
+Ruby Cumming  
+Rebecca Tansley  
+Tony Kellaway  
+Wilson Sze  
+Alexander Gandar  
+Prof. Karen Loop  
+Alexander Davidson  
+Anna McIntosh  
+Nikita Kearsley  
+Elysia Gibb, FIlm Bay of Plenty   
+Nikki van Lunenburg  
+Maddy Lovatt  
+Anthony Forster  
+Mark Williams  
+Peter Nehemia   
+Dr Caitlin Owen, University of Otago  
