@@ -64,9 +64,9 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
-### Public Signatories (447 and counting)
+### Public Signatories (471 and counting)
 
-_As of 18/09/25_
+_As of 25/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -516,3 +516,27 @@ Anthony Forster
 Mark Williams  
 Peter Nehemia   
 Dr Caitlin Owen, University of Otago  
+Brenda Kendall, NZ Actors Equity  
+Hamish Brown  
+Dr Catherine Hill   
+Luiz Filie De Oliveira Medeiros   
+Laura Palmieri  
+Hariata Sanders  
+Dr Stefan Roesch  
+Meng Niu  
+Manja Wachsmuth, Photographer  
+Aaron Key  
+Kiri Cook  
+Jason Mann  
+Ann Orman, AIPA  
+Trevor Carswell  
+Lindsey Te Ata o Tū MacDonald  
+Evan Webber  
+Ben Roberts  
+Dr. Shea Esterling, Te Whare Wānanga o Waitaha | University of Canterbury  
+Raymond Lum, Sword productions  
+Andy spain  
+Tom Neunzerling   
+Amber Rhodes  
+Chloe Ockleston  
+Sophie Nielsen  
