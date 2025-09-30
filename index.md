@@ -64,9 +64,9 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
-### Public Signatories (471 and counting)
+### Public Signatories (477 and counting)
 
-_As of 25/09/25_
+_As of 30/09/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -540,3 +540,9 @@ Tom Neunzerling
 Amber Rhodes  
 Chloe Ockleston  
 Sophie Nielsen  
+Michael Clare  
+Catherine Mules  
+Dr Philippa Mules  
+Liam Ryan  
+Tim Morrison  
+Floyd Driver  
