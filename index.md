@@ -64,9 +64,9 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
-### Public Signatories (482 and counting)
+### Public Signatories (500 and counting)
 
-_As of 04/10/25_
+_As of 06/10/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -551,3 +551,19 @@ Linda Dallimore
 William Philipson  
 Chris Cozens  
 Catherine Low  
+Andy O'Brien  
+Fiona McCormack   
+S Steens   
+Dr Alison Campbell  
+Oliver Mould   
+Rebecca Cox  
+Terry Bellamak  
+Dagan McGregor  
+Kieran Pegler  
+Dr. Geoff Stahl, Victoria University of Wellington  
+Anjuli Muller  
+Liam Melvin  
+Andrew Ecclestone MPP  
+Christina Lee  
+Rain Whitlock  
+Dr. David Eccles  
