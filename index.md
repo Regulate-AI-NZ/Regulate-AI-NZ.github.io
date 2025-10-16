@@ -64,9 +64,9 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 
-### Public Signatories (500 and counting)
+### Public Signatories (500+ and counting)
 
-_As of 06/10/25_
+_As of 16/10/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -567,3 +567,15 @@ Andrew Ecclestone MPP
 Christina Lee  
 Rain Whitlock  
 Dr. David Eccles  
+Hayley Ness  
+Emma Smart  
+Stephanie Tulloch  
+Tomas Ian Webster  
+Natalie Anne Howard BVSc   
+Tayla August  
+Angela Wallace   
+Kelsey Mulcahy  
+Viv Moore  
+Jane   
+Jarrod Coburn  
+Charles Heath  
