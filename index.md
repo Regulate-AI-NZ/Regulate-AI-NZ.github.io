@@ -63,10 +63,11 @@ Dr Lech Szymanski, University of Otago
 Professor Alexandra Andhov, University of Auckland  
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
+Rochelle Style, Personal Capacity  
 
 ### Public Signatories (500+ and counting)
 
-_As of 16/10/25_
+_As of 22/10/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -579,3 +580,8 @@ Viv Moore
 Jane   
 Jarrod Coburn  
 Charles Heath  
+Stephanie Mearns  
+Leah Whitaker  
+Ariel Waldron   
+Dr Tania Moerenhout, University of Otago  
+Paul Seiler, Catalyst Cloud  
