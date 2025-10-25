@@ -65,9 +65,14 @@ Professor Michael Winikoff, Victoria University of Wellington
 Matt Farrington, Personal Capacity  
 Rochelle Style, Personal Capacity  
 
+### Politicial Signatories
+
+Chlöe Swarbrick, Green Party of Aotearoa New Zealand
+Marama Davidson, Green Party of Aotearoa New Zealand
+
 ### Public Signatories (500+ and counting)
 
-_As of 22/10/25_
+_As of 26/10/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -585,3 +590,11 @@ Leah Whitaker
 Ariel Waldron   
 Dr Tania Moerenhout, University of Otago  
 Paul Seiler, Catalyst Cloud  
+Richard Warburton  
+Janet Hunter  
+Patricia Hughes  
+Margaret Dolphin   
+Amy Cummins   
+Rae Trewartha   
+Grant Slevin  
+Ian Mustard   
