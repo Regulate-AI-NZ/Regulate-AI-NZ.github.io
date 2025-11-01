@@ -72,7 +72,7 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 ### Public Signatories (550+ and counting)
 
-_As of 27/10/25_
+_As of 2/11/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -627,3 +627,15 @@ Jeremy Dunningham
 Greg Dodds  
 Eva Balogh  
 Murray Keene  
+Barry Murphy  
+Josh Wright  
+Dr Kathryn Hewson  
+Nikoletta Soos  
+Howard Clement  
+Michael Athol Parkes  
+Madi Brokenshire  
+David Fale  
+Dr Monica Handler, Te Herenga Waka Victoria University of Wellington  
+Joanna Wallis  
+Glenn Wallis  
+Hilaire Jacqueline Campbell   
