@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (550+ and counting)
+### Public Signatories (600+ and counting)
 
-_As of 2/11/25_
+_As of 07/11/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -639,3 +639,21 @@ Dr Monica Handler, Te Herenga Waka Victoria University of Wellington
 Joanna Wallis  
 Glenn Wallis  
 Hilaire Jacqueline Campbell   
+Fraser Campbell  
+Claude PERTUSATI, MiNDSHIFT Films  
+Marisa Jayna  
+Marianne van der Haas  
+Judith Neale  
+Tim Beatson  
+Nomes Lorimer  
+Penelope Andersen  
+Jennifer MacDonald  
+Dr Nicholas Drake  
+L Catchpole   
+Nichola Williams  
+Sara Meij-Kilpatrick  
+Richard Rhys David Christy-Jones   
+Hayley Ness  
+El Glynn  
+Lauren graham   
+Dr Ashley Young  
