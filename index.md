@@ -72,7 +72,7 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 ### Public Signatories (600+ and counting)
 
-_As of 07/11/25_
+_As of 11/12/25_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -657,3 +657,18 @@ Hayley Ness
 El Glynn  
 Lauren graham   
 Dr Ashley Young  
+Florence Micoud   
+Anna Wakefield  
+Mic Wan  
+Thomas Hutton  
+Adrienne Price  
+Karen Singleton  
+M Key  
+Olivia Trilford  
+Rebecca Máire Roberts  
+Concerned Citizen  
+Emma Godwin  
+Master Manas Suryadevara  
+Miss Samantha Calder  
+Rosa Allison  
+Bryanna Lingley  
