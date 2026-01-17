@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (600+ and counting)
+### Public Signatories (800+ and counting)
 
-_As of 11/12/25_
+_As of 17/01/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -672,3 +672,200 @@ Master Manas Suryadevara
 Miss Samantha Calder  
 Rosa Allison  
 Bryanna Lingley  
+Ella Neill  
+Sarah Lilley  
+Seoyoun Lee  
+Kylie Sanders  
+Ashleigh Hickey  
+Ben Dodd  
+Chip Self  
+Sophie McLeish  
+Rachel Priebee  
+Karen Bates  
+Alicia Ponder  
+Dr Alma M H Rae  
+Peter Sime  
+Rebecca Keegan  
+Briar Comins  
+Douglas Horrell   
+Dee Morgan, QPK Counselling Ltd  
+Hayley Wolters  
+Patricia Jane Manney, Institute for Ethics and Emerging Technologies   
+Paula Labuschagne  
+Nicola Easthope   
+Charles Goodwin   
+Helen Jamieson  
+Oliver John Mould, Canterbury  
+Dr Sanjana Hattotuwa  
+Jane Colhoun  
+Marilyn Hunt  
+Mike Smithies   
+Russell Clarke  
+Moxxie Jade Raika  
+Jan Patterson  
+David Patterson  
+Charlotte Crummack  
+Dr. Nelson Wattie   
+Ronny Hossain  
+Clayton F  
+Sonya Bloomfield  
+Heather Lowrie  
+Praise Nweke   
+Hayley Wolters  
+Dr. Kevin Veale  
+Jennifer Ward  
+Beverly Fletcher  
+Rachel Priebee  
+Anna Curnow   
+Jeffrey David Howell  
+Catherine Robertson   
+Dr Sarah Fowler  
+James Gardner  
+Teresa Urquhart  
+Professor Andrew Jull  
+Antony Southworth  
+Matthew Whitehead  
+Helena McAnally   
+Professor Jacquie Kidd  
+Dr Sharyn Esteves  
+Dr Valerie Milne  
+Nicholas Cavaye   
+Hannah Molloy  
+Denise Cone  
+Dr Alison Campbell   
+Janet Greig  
+Lisa McFarland  
+Chris Sharpe  
+Kim Hewitt  
+Dr. Rosemary Hipkins  
+Dr Aleisha Ward  
+Michelle Coburn  
+Kate Mahoney  
+Chip Self  
+Daniel J Ryan  
+Rochelle Tickle  
+Monique Tickle  
+Freddie Rive  
+Jude Hamer  
+Joshua Drummond  
+Hamish Dickson  
+Jonathan Grady  
+roman black  
+Juanita Yukseloglu  
+Alison beatty  
+Jane Wood  
+Amy Coët  
+Marlene Sheehan   
+Jill Christine Owen  
+Angela Boland  
+Meteria Rapata  
+Kelly Paddison  
+Megan Sety  
+Maureen Jansen  
+Rachel Ross   
+Laura Syman   
+Sinead Dennis  
+Jaisha Mountfort  
+Sarah Dreyer   
+Katy Thomas  
+Trish Anderson  
+Angela Howell   
+Jenifer Callanan   
+Leila Boyle  
+Athena Bond  
+Renee McDermott   
+Eileen Ng  
+Sherryl de Vocht   
+Christina Monique Rock  
+Bella Cunnington Waugh  
+Linda Jane Keegan   
+Dorothy Gaunt  
+Ngaire Causer   
+M Waddington   
+Alison Heath  
+Claire McKenzie  
+Jane Murray  
+Jenn Allen  
+Graeme Wilkinson  
+Hineoteata Nepe Apagu  
+Dave Stonyer  
+Amie LaRouche  
+Nomes Lorimer  
+Bridget Laugesen   
+Alice Mandy Doig  
+Brigid McCaffery  
+Katherine Hayton   
+Moeraema Black  
+Zena Pigden  
+Susan Harper   
+Elizabeth McNeill  
+Fiona Hermann   
+Susan McLaren   
+Gareth Jardine  
+Christine Stopforth  
+Jemma Penelope  
+Pip Wells  
+Rachel Smith  
+Annemarie Carr   
+Stephen McLuckie  
+Dr Philippa Ferguson  
+Claire Vanstone  
+Aimee Le Lievre  
+Sarah Sneyd  
+Audrey Young  
+Rose Cantwell  
+Liliana Guerra   
+Catherine M Cornish  
+Elizabeth Jane Abbott  
+Rudolf Gerardus Verhoef  
+Marion Marquand   
+Betty Catherine Abbott  
+Ms Elaine Dyett   
+Belynda Groot  
+Lucy Gardyne  
+Cheryl Johnstone   
+Lynette Anne Small  
+Leo McIntyre   
+Amber Lloyd  
+Dr Jae Major  
+Alison James  
+Jane Atterbury-Leaf   
+Meg Scally  
+Cheree   
+Elaine Hampton  
+Hartley Michael E  
+Ellen Walker   
+Jane Russell  
+Kim Seaward   
+Hannah Taylor  
+Nadiya Barr  
+Annabelle Robertson   
+Meliors Simms   
+Meredith youngson  
+Juliet Jane Clark  
+Angie Long   
+Tim Judson  
+Hilary Hayde  
+Sue Crossan  
+Megan Williams  
+Edwina Hughes, Peace Movement Aotearoa  
+Tracey Rountree  
+Megan Park  
+Fleur Sandbrook  
+Hilary Salmon   
+Dr Valerie Pollard   
+Siobhan Halse-Soutar   
+Dr Ann Doehring  
+C Hanna   
+Robyn Vella   
+Siobhan McElroy   
+Samuel Beca  
+Jacqueline Blanchard   
+Melissa Firth  
+Kathryn Johnston   
+Kimberley khanna   
+Carly Elder  
+R Sophie Gold   
+Stephanie Xie  
+Stella McQueen   
+Ashley Patchett  
