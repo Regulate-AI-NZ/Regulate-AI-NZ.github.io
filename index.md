@@ -869,3 +869,7 @@ R Sophie Gold
 Stephanie Xie  
 Stella McQueen   
 Ashley Patchett  
+Sophie Arlidge  
+Katia De Lu  
+Melody Baird  
+Michael Skinner  
