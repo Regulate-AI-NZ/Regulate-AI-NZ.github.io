@@ -873,3 +873,17 @@ Sophie Arlidge
 Katia De Lu  
 Melody Baird  
 Michael Skinner  
+Wyatt Ryder  
+Amy van Deurs  
+Kate Barker  
+Keeli Gregory  
+Claudine Anne Muru  
+Hamish Wilson  
+Kate Bartlett  
+Louisa Hall   
+Noah Walker  
+Erana Hokopaura-Watkins  
+Jordan Kingston   
+Mrs Amy Pamela Marshall   
+Susann Winter, N/A  
+Ainsley Peters  
