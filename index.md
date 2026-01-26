@@ -72,7 +72,7 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 ### Public Signatories (800+ and counting)
 
-_As of 17/01/26_
+_As of 26/01/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -887,3 +887,11 @@ Jordan Kingston
 Mrs Amy Pamela Marshall   
 Susann Winter, N/A  
 Ainsley Peters  
+Riikka Lintola-Reihana  
+Ria Vandervis   
+Lucy Ruck  
+Tracy Price  
+Gemma Sloane  
+Emma Roebuck   
+Nurul Sultan  
+Mark Davison  
