@@ -74,7 +74,7 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 _As of 26/01/26_
 
-Add your signature here: [Sign]({ "/sign/" | relative_url })
+Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
 Polly Mckinnon  
 Paul Thistoll, Rights Aotearoa  
