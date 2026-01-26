@@ -1,0 +1,44 @@
+name: Update Signatories
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MY_PAT }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install pandas
+        run: pip install pandas
+
+      - name: Run update script
+        run: python scripts/update_signatories.py
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "SignatoryBot"
+          git config user.email "actions@github.com"
+          git add index.md
+          # Check if there are changes to commit
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: update public signatories list"
+            # Explicitly push to the main branch
+            git push origin HEAD:main
+          else
+            echo "No new signatories today."
+          fi

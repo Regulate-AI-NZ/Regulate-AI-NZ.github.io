@@ -70,11 +70,11 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (800+ and counting)
+### Public Signatories (821+ and counting)
 
 _As of 26/01/26_
 
-Add your signature here: [Sign]({{ "/sign/" | relative_url }})
+Add your signature here: [Sign]({ "/sign/" | relative_url })
 
 Polly Mckinnon  
 Paul Thistoll, Rights Aotearoa  
@@ -98,13 +98,13 @@ Frankie Karetai Wood-Bodley, Queerly Legal
 Prof. Paul Kruger  
 Frankie Karetai Wood-Bodley  
 Jack Weekly, Bupper  
-Dr. Kevin Veale, Aotearoa Communication & Media Scholars   
+Dr. Kevin Veale, Aotearoa Communication & Media Scholars  
 Craig Johnston  
 Dr Annisa Rahmalia, MPH  
 Amelia Bentley  
 Beverly Fletcher  
 Bianca Grizhar  
-Andrea  Konnerth   
+Andrea  Konnerth  
 Richard Littauer  
 Dave Lane, Lane Ventures Ltd  
 Helen Varley Jamieson  
@@ -125,16 +125,16 @@ Dr Amanda Reilly, Te Herenga Waka, Victoria University of Wellington
 Prashanth Jayaprakash  
 James Gardner  
 Dongkyu Kang, a signatory from Korea.  
-Julianne Hickey, Fambirai   
-Samantha Murphy   
+Julianne Hickey, Fambirai  
+Samantha Murphy  
 Prof Steve Reeves, University of Waikato  
 Ana McAllister  
 Justin Kim  
 Naashon Zalk  
 PJ Manney  
-Dr Harisu Shehu, Victoria University of Wellington   
+Dr Harisu Shehu, Victoria University of Wellington  
 Kat Greenbrook  
-Josh Mortensen   
+Josh Mortensen  
 Dr Hendrik Jacob Stolk  
 Jacqueline Braid  
 Dr Danielle Julian  
@@ -144,20 +144,20 @@ Paula Browning
 Simeon Lodge  
 Dr Ilija Tolich  
 Michael Gray  
-Richard Harrison   
+Richard Harrison  
 Lynn Peake  
-Rachel Ridley   
+Rachel Ridley  
 Christopher Snyder  
 Chris Chetland, Music Production Guild of Aotearoa/NZ  
 Rachel Antony, Greenstone TV  
 Anne Campbell  
 Joanna Mcmenamin  
 Tristam Sparks, Massey University  
-Karepa Wall   
+Karepa Wall  
 Venetia King  
 Professor Joshua Fairfield, Washington and Lee University School of Law  
 Stephen Cope  
-Rebecca Robin   
+Rebecca Robin  
 Georgina Till  
 Ailsa Cuthbert  
 Dr Andelka M. Phillips  
@@ -200,29 +200,29 @@ Dr Colin Beardon
 Tui Ruwhiu, Directors and Editors Guild of Aotearoa New Zealand  
 Courtney Sina Meredith, Publishers Association of New Zealand  
 Terry Bellamak  
-Prof Cheryl Brown, University of Canterbury   
-Marko George Alach   
+Prof Cheryl Brown, University of Canterbury  
+Marko George Alach  
 Kay Jones  
-Louise Carter   
+Louise Carter  
 Daniella Curry  
 Amanda Aggio  
 Justin Ryan  
-Kate Edgar   
+Kate Edgar  
 Dagan McGregor  
-Dr Bronwyn Lennox Thompson   
-Carina Letizia Meares   
-Tania O'Regan   
-Lerk Shih Poh Stedman   
+Dr Bronwyn Lennox Thompson  
+Carina Letizia Meares  
+Tania O'Regan  
+Lerk Shih Poh Stedman  
 Lani Raukawa Field  
-Abdullah Al Mamun , Victoria University of Wellington   
+Abdullah Al Mamun , Victoria University of Wellington  
 Stephanie Fill  
-Dr Sarah Hendrica Bickerton   
+Dr Sarah Hendrica Bickerton  
 Barbara L Howe  
 Dr Douglas Campobell, University of Canterbury  
 Jo Oliver, Recorded Music NZ  
 Ana-Maria Mocanu  
 Patrick PIlcher  
-Helena Page   
+Helena Page  
 David Udy  
 Hamish Fraser  
 Dr Leon Salter  
@@ -235,9 +235,9 @@ Shaun Sinclair
 Dr Bill Rosenberg  
 Tom Hovey, Diagram  
 Nathan Hall  
-Frank Rueter, OHUfx   
-Anne-Marie Colebrook   
-Whetū Fala   
+Frank Rueter, OHUfx  
+Anne-Marie Colebrook  
+Whetū Fala  
 Catherine Mules  
 Emily Penberthy  
 Tom Malthus  
@@ -252,10 +252,10 @@ Jeremy Craig
 Alastair Cottle  
 Matthew Baeriswyl  
 Kristi Illingworth  
-Kyle Beaumont   
+Kyle Beaumont  
 Vihang Vipul Garud  
 Joanne Dean  
-Vanessa Ericksen   
+Vanessa Ericksen  
 Dr. Kim Morgan, Dunedin Summer Shakespeare (and) Hic Sunt Dracones Productions  
 Matthew Morgan  
 Jennifer Leith, Amelie Ltd  
@@ -289,7 +289,7 @@ Donna Barber
 SImon Burge  
 Melanie Duncan  
 Brett Mann  
-Helen Mann   
+Helen Mann  
 Leah Brooks  
 Nick Mann  
 Alice-Louise Mann  
@@ -306,9 +306,9 @@ Sasha Vlassoff
 Dr Sanjana Hattotuwa  
 Prof. Greg O’Beirne  
 Isabella White  
-Rachael Norcross   
+Rachael Norcross  
 Dr Rosa Hughes-Currie  
-Laura Johnstone   
+Laura Johnstone  
 Dr Tristan Katz  
 Dr Karen Easterbrook  
 Lilian Lindner  
@@ -321,20 +321,21 @@ Caleb Hochstetler
 Prof. Neil Dodgson  
 Marlon Richards  
 Dr Rob Cruickshank  
-Alice Cruickshank   
+Alice Cruickshank  
 Timothy Jones  
 Theo Seffusatti, Heard & Seen Publishing  
 Emmeline White  
 Vivian Chandra  
 Sarah Bell  
-Sarah Flynn 
+Sarah Flynn  
 Archana Atmakuri  
 Geoff Palmer  
 Rebecca Ericksen  
 Suzie Tingley  
+Matt Farrington  
 Emeritus Professor Rowena Cullen  
-Helen Thomas    
-Ella Yiannoutsos, Grammelot Productions  
+Helen Thomas  
+Ella Yiannoutsos , Grammelot Productions  
 Amanda Riddell, Amanda Michelina's Progressive Party  
 Robin Marshall, Mdigital  
 Siobhan Patia  
@@ -365,7 +366,7 @@ Jessy McNamara
 Ethan Hart  
 Bridie MacInnes  
 Ryan Lloyd  
-Bryce Pearce   
+Bryce Pearce  
 michael paletta  
 Anna Jamieson  
 Felicity Letcher, Main Reactor  
@@ -378,10 +379,10 @@ Aaron Morton
 Amand Weaver  
 Josh Wallace  
 Steve King  
-Jeremy Anderson   
+Jeremy Anderson  
 Shea William McKenzie  
 Ben Panckhurst  
-Terri Kilmartin   
+Terri Kilmartin  
 Wheeler Luke  
 Anna Walsh-Wrightson  
 Jessica George  
@@ -398,10 +399,10 @@ Aaron Weir
 Robert Pendergrast  
 Helen Naulls  
 sam fraser, sam fraser  
-Gabriel Carpanedo   
+Gabriel Carpanedo  
 Benjamin Kumar Witter  
 Lisa Foothead  
-Julian Braatvedt   
+Julian Braatvedt  
 Braedan Gare  
 Christopher Pryor  
 William Roud  
@@ -411,13 +412,13 @@ John Cavil NZCS (Cinematographer)
 Michael Kim  
 Jacob Leaf  
 Mandy Jacob  
-Andy Johnson, New Zealand Broadcasting School, Ara   
+Andy Johnson, New Zealand Broadcasting School, Ara  
 Ross McKay  
 Sez Niederer  
 Jennifer Butcher  
 Gordon Smith  
 Tessa McEwing  
-Hannah Woods   
+Hannah Woods  
 Giona Bridler  
 Jo Tagg  
 Kimberly Y Frost  
@@ -425,7 +426,7 @@ Dale Bradley
 Derrick Sims  
 James Farrow  
 Sally-Ann Louisson  
-David Paul nzcs ( Cinematographer)   
+David Paul nzcs ( Cinematographer)  
 Matt Asunder  
 Shenoa Patricia MacAulay  
 Esther Cahill-Chiaroni  
@@ -441,7 +442,7 @@ Malcolm Clement
 Benjamin Sutherland  
 Barbara Darragh  
 Melanie Simmons  
-Roydon Christensen   
+Roydon Christensen  
 Peta Sinclair  
 David Mills  
 Jade Valour  
@@ -455,8 +456,8 @@ Quentin Whitwell
 Brett Larsen  
 Polly McKinnon  
 Matt Hunt  
-Melissa Sue Turner   
-Hamish Bruce   
+Melissa Sue Turner  
+Hamish Bruce  
 Tasha Lang  
 Jessica Bennett  
 Kendra Fleming  
@@ -467,15 +468,15 @@ Jean-Luc azzis
 Kim Thomas  
 Richard Schuler  
 Martine Deluxe  
-Nicholas Joseph Willoughby   
+Nicholas Joseph Willoughby  
 Nicolette Hurnen  
-Aidan Locke   
+Aidan Locke  
 Dave Kwant  
 Matt Holmes  
 Cathy Adams  
 Carmel Rata  
 Evan Pardington  
-Neil proctor   
+Neil proctor  
 Tayla Rose Scully  
 Holly Norman  
 Simon Ambridge, Binary Films Ltd  
@@ -515,17 +516,17 @@ Prof. Karen Loop
 Alexander Davidson  
 Anna McIntosh  
 Nikita Kearsley  
-Elysia Gibb, FIlm Bay of Plenty   
+Elysia Gibb, FIlm Bay of Plenty  
 Nikki van Lunenburg  
 Maddy Lovatt  
 Anthony Forster  
 Mark Williams  
-Peter Nehemia   
+Peter Nehemia  
 Dr Caitlin Owen, University of Otago  
 Brenda Kendall, NZ Actors Equity  
 Hamish Brown  
-Dr Catherine Hill   
-Luiz Filie De Oliveira Medeiros   
+Dr Catherine Hill  
+Luiz Filie De Oliveira Medeiros  
 Laura Palmieri  
 Hariata Sanders  
 Dr Stefan Roesch  
@@ -542,7 +543,7 @@ Ben Roberts
 Dr. Shea Esterling, Te Whare Wānanga o Waitaha | University of Canterbury  
 Raymond Lum, Sword productions  
 Andy spain  
-Tom Neunzerling   
+Tom Neunzerling  
 Amber Rhodes  
 Chloe Ockleston  
 Sophie Nielsen  
@@ -558,10 +559,10 @@ William Philipson
 Chris Cozens  
 Catherine Low  
 Andy O'Brien  
-Fiona McCormack   
-S Steens   
+Fiona McCormack  
+S Steens  
 Dr Alison Campbell  
-Oliver Mould   
+Oliver Mould  
 Rebecca Cox  
 Terry Bellamak  
 Dagan McGregor  
@@ -577,28 +578,29 @@ Hayley Ness
 Emma Smart  
 Stephanie Tulloch  
 Tomas Ian Webster  
-Natalie Anne Howard BVSc   
+Natalie Anne Howard BVSc  
 Tayla August  
-Angela Wallace   
+Angela Wallace  
 Kelsey Mulcahy  
 Viv Moore  
-Jane   
+Jane  
 Jarrod Coburn  
 Charles Heath  
 Stephanie Mearns  
 Leah Whitaker  
-Ariel Waldron   
+Ariel Waldron  
 Dr Tania Moerenhout, University of Otago  
 Paul Seiler, Catalyst Cloud  
+Kathryn Clark  
 Richard Warburton  
 Janet Hunter  
 Patricia Hughes  
-Margaret Dolphin   
-Amy Cummins   
-Rae Trewartha   
+Margaret Dolphin  
+Amy Cummins  
+Rae Trewartha  
 Grant Slevin  
-Ian Mustard   
-Marilyn Graham   
+Ian Mustard  
+Marilyn Graham  
 Jonathan Longstaff  
 Dr Trevor FitzJohn  
 Rachel Larkin  
@@ -619,11 +621,11 @@ Dr David Kent, Canterbury
 Simon taverner  
 Rosemary Keating  
 Timothy Michaelson  
-Dr Wendy Reynolds   
-Anjana Iyer   
+Dr Wendy Reynolds  
+Anjana Iyer  
 Professor Steven Galbraith  
 Dave Lane  
-Jeremy Dunningham   
+Jeremy Dunningham  
 Greg Dodds  
 Eva Balogh  
 Murray Keene  
@@ -634,11 +636,11 @@ Nikoletta Soos
 Howard Clement  
 Michael Athol Parkes  
 Madi Brokenshire  
-David Fale  
+David Fale, N/A  
 Dr Monica Handler, Te Herenga Waka Victoria University of Wellington  
 Joanna Wallis  
 Glenn Wallis  
-Hilaire Jacqueline Campbell   
+Hilaire Jacqueline Campbell  
 Fraser Campbell  
 Claude PERTUSATI, MiNDSHIFT Films  
 Marisa Jayna  
@@ -649,15 +651,15 @@ Nomes Lorimer
 Penelope Andersen  
 Jennifer MacDonald  
 Dr Nicholas Drake  
-L Catchpole   
+L Catchpole  
 Nichola Williams  
 Sara Meij-Kilpatrick  
-Richard Rhys David Christy-Jones   
+Richard Rhys David Christy-Jones  
 Hayley Ness  
 El Glynn  
-Lauren graham   
+Lauren graham  
 Dr Ashley Young  
-Florence Micoud   
+Florence Micoud  
 Anna Wakefield  
 Mic Wan  
 Thomas Hutton  
@@ -687,52 +689,52 @@ Dr Alma M H Rae
 Peter Sime  
 Rebecca Keegan  
 Briar Comins  
-Douglas Horrell   
+Douglas Horrell  
 Dee Morgan, QPK Counselling Ltd  
 Hayley Wolters  
-Patricia Jane Manney, Institute for Ethics and Emerging Technologies   
+Patricia Jane Manney, Institute for Ethics and Emerging Technologies  
 Paula Labuschagne  
-Nicola Easthope   
-Charles Goodwin   
+Nicola Easthope  
+Charles Goodwin  
 Helen Jamieson  
 Oliver John Mould, Canterbury  
 Dr Sanjana Hattotuwa  
 Jane Colhoun  
 Marilyn Hunt  
-Mike Smithies   
+Mike Smithies  
 Russell Clarke  
 Moxxie Jade Raika  
 Jan Patterson  
 David Patterson  
 Charlotte Crummack  
-Dr. Nelson Wattie   
+Dr. Nelson Wattie  
 Ronny Hossain  
 Clayton F  
 Sonya Bloomfield  
 Heather Lowrie  
-Praise Nweke   
+Praise Nweke  
 Hayley Wolters  
 Dr. Kevin Veale  
 Jennifer Ward  
 Beverly Fletcher  
 Rachel Priebee  
-Anna Curnow   
+Anna Curnow  
 Jeffrey David Howell  
-Catherine Robertson   
+Catherine Robertson  
 Dr Sarah Fowler  
 James Gardner  
 Teresa Urquhart  
 Professor Andrew Jull  
 Antony Southworth  
 Matthew Whitehead  
-Helena McAnally   
+Helena McAnally  
 Professor Jacquie Kidd  
 Dr Sharyn Esteves  
 Dr Valerie Milne  
-Nicholas Cavaye   
+Nicholas Cavaye  
 Hannah Molloy  
 Denise Cone  
-Dr Alison Campbell   
+Dr Alison Campbell  
 Janet Greig  
 Lisa McFarland  
 Chris Sharpe  
@@ -755,33 +757,33 @@ Juanita Yukseloglu
 Alison beatty  
 Jane Wood  
 Amy Coët  
-Marlene Sheehan   
+Marlene Sheehan  
 Jill Christine Owen  
 Angela Boland  
 Meteria Rapata  
 Kelly Paddison  
 Megan Sety  
 Maureen Jansen  
-Rachel Ross   
-Laura Syman   
+Rachel Ross  
+Laura Syman  
 Sinead Dennis  
 Jaisha Mountfort  
-Sarah Dreyer   
+Sarah Dreyer  
 Katy Thomas  
 Trish Anderson  
-Angela Howell   
-Jenifer Callanan   
+Angela Howell  
+Jenifer Callanan  
 Leila Boyle  
 Athena Bond  
-Renee McDermott   
+Renee McDermott  
 Eileen Ng  
-Sherryl de Vocht   
+Sherryl de Vocht  
 Christina Monique Rock  
 Bella Cunnington Waugh  
-Linda Jane Keegan   
+Linda Jane Keegan  
 Dorothy Gaunt  
-Ngaire Causer   
-M Waddington   
+Ngaire Causer  
+M Waddington  
 Alison Heath  
 Claire McKenzie  
 Jane Murray  
@@ -791,22 +793,22 @@ Hineoteata Nepe Apagu
 Dave Stonyer  
 Amie LaRouche  
 Nomes Lorimer  
-Bridget Laugesen   
+Bridget Laugesen  
 Alice Mandy Doig  
 Brigid McCaffery  
-Katherine Hayton   
+Katherine Hayton  
 Moeraema Black  
 Zena Pigden  
-Susan Harper   
+Susan Harper  
 Elizabeth McNeill  
-Fiona Hermann   
-Susan McLaren   
+Fiona Hermann  
+Susan McLaren  
 Gareth Jardine  
 Christine Stopforth  
 Jemma Penelope  
 Pip Wells  
 Rachel Smith  
-Annemarie Carr   
+Annemarie Carr  
 Stephen McLuckie  
 Dr Philippa Ferguson  
 Claire Vanstone  
@@ -814,36 +816,36 @@ Aimee Le Lievre
 Sarah Sneyd  
 Audrey Young  
 Rose Cantwell  
-Liliana Guerra   
+Liliana Guerra  
 Catherine M Cornish  
 Elizabeth Jane Abbott  
 Rudolf Gerardus Verhoef  
-Marion Marquand   
+Marion Marquand  
 Betty Catherine Abbott  
-Ms Elaine Dyett   
+Ms Elaine Dyett  
 Belynda Groot  
 Lucy Gardyne  
-Cheryl Johnstone   
+Cheryl Johnstone  
 Lynette Anne Small  
-Leo McIntyre   
+Leo McIntyre  
 Amber Lloyd  
 Dr Jae Major  
 Alison James  
-Jane Atterbury-Leaf   
+Jane Atterbury-Leaf  
 Meg Scally  
-Cheree   
+Cheree  
 Elaine Hampton  
 Hartley Michael E  
-Ellen Walker   
+Ellen Walker  
 Jane Russell  
-Kim Seaward   
+Kim Seaward  
 Hannah Taylor  
 Nadiya Barr  
-Annabelle Robertson   
-Meliors Simms   
+Annabelle Robertson  
+Meliors Simms  
 Meredith youngson  
 Juliet Jane Clark  
-Angie Long   
+Angie Long  
 Tim Judson  
 Hilary Hayde  
 Sue Crossan  
@@ -852,22 +854,22 @@ Edwina Hughes, Peace Movement Aotearoa
 Tracey Rountree  
 Megan Park  
 Fleur Sandbrook  
-Hilary Salmon   
-Dr Valerie Pollard   
-Siobhan Halse-Soutar   
+Hilary Salmon  
+Dr Valerie Pollard  
+Siobhan Halse-Soutar  
 Dr Ann Doehring  
-C Hanna   
-Robyn Vella   
-Siobhan McElroy   
+C Hanna  
+Robyn Vella  
+Siobhan McElroy  
 Samuel Beca  
-Jacqueline Blanchard   
+Jacqueline Blanchard  
 Melissa Firth  
-Kathryn Johnston   
-Kimberley khanna   
+Kathryn Johnston  
+Kimberley khanna  
 Carly Elder  
-R Sophie Gold   
+R Sophie Gold  
 Stephanie Xie  
-Stella McQueen   
+Stella McQueen  
 Ashley Patchett  
 Sophie Arlidge  
 Katia De Lu  
@@ -880,18 +882,18 @@ Keeli Gregory
 Claudine Anne Muru  
 Hamish Wilson  
 Kate Bartlett  
-Louisa Hall   
+Louisa Hall  
 Noah Walker  
 Erana Hokopaura-Watkins  
-Jordan Kingston   
-Mrs Amy Pamela Marshall   
+Jordan Kingston  
+Mrs Amy Pamela Marshall  
 Susann Winter, N/A  
 Ainsley Peters  
 Riikka Lintola-Reihana  
-Ria Vandervis   
+Ria Vandervis  
 Lucy Ruck  
 Tracy Price  
 Gemma Sloane  
-Emma Roebuck   
+Emma Roebuck  
 Nurul Sultan  
 Mark Davison  
