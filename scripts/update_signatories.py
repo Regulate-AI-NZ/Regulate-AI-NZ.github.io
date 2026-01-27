@@ -59,7 +59,7 @@ def main():
     
     new_section = f"{marker} ({count} and counting)\n\n"
     new_section += f"_As of {today}_\n\n"
-    new_section += f"Add your signature here: [Sign]({{ \"/sign/\" | relative_url }})\n\n"
+    new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}})\n\n"
     new_section += "\n".join(formatted_signatures)
     
     # 4. SAVE CHANGES
