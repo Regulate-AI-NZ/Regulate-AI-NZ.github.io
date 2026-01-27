@@ -2,8 +2,8 @@ name: Update Signatories
 
 on:
   schedule:
-    # Runs at 5:45pm NZ summer time daily
-    - cron: '45 4 * * *'
+    # Runs at 6:13pm NZ summer time daily
+    - cron: '13 5 * * *'
   workflow_dispatch: 
 
 permissions:
