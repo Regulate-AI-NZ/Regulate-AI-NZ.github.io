@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (835 and counting)
+### Public Signatories (841 and counting)
 
-_As of 02/02/26_
+_As of 03/02/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -911,3 +911,9 @@ Beth Marriott
 `Sheena Henderson  
 Anne-Marie Morrison  
 Kate Darby  
+Elizabeth Hibbs  
+Sue Engels  
+Gayle Ferguson  
+Dr Ann Wood  
+Aleisha Havill  
+Sophie Bostwick  
