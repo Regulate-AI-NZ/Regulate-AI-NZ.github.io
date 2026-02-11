@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (878 and counting)
+### Public Signatories (929 and counting)
 
-_As of 10/02/26_
+_As of 11/02/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -954,3 +954,54 @@ Kit Douglas Benham
 Kirsty McMahon  
 Britta Hawkins  
 Helen Raskin  
+Jesse Allam  
+Averil May McLean  
+Robert Allam  
+Brie Allam  
+Caroline Robertson  
+Caroline Robertson, Spacecraft Architects  
+Averil May McLean  
+Johnny Brebner  
+Helen Phare  
+Kathleen Allam  
+Dominic Corry  
+Ben McCarthy  
+Louise Adams  
+Kirk Jackson  
+Charlie Matthews  
+Regan Harris  
+Ruby Lyon  
+Gwen Lyon  
+Elizabeth Doughty  
+Lynne Brunton  
+Melinda Hobbs  
+Kathryn Ducat-Green  
+Maryanne Cathro  
+Evangeline Speedy  
+Annie Hill  
+Micheline Evans  
+Kate McCaughan  
+Sarah Dove  
+Paul Milmine  
+Fiona Bartlett  
+Sarah Dunning  
+Craig Brown  
+Angela Gray  
+Lilly Fern  
+Christina M  
+Ninah Christie  
+Imogen van Dam  
+Elissa Weissman  
+Rowan Cant  
+Vidya Singh  
+Lisa Fox  
+Fiona Bartlett  
+Ish Doney  
+Jason Kyle  
+Samantha Finch  
+Jason Blair  
+Starsha Samarasinghe  
+Pinky Fang  
+Wendy Edmondson  
+Sarah Denton  
+Libby Adams  
