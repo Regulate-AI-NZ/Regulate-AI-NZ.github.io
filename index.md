@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (957 and counting)
+### Public Signatories (973 and counting)
 
-_As of 16/02/26_
+_As of 17/02/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1033,3 +1033,19 @@ Hayley Judd
 Hayden Judd  
 Grant Cumming  
 Tim Stannard  
+Jonathan Sweeney  
+Dan Bason  
+Dr Elle Henderson  
+Simon O'Neill  
+Isla Smyth  
+Georgia H  
+Anna Curnow  
+Prof Tammy Steeves, University of Canterbury  
+Janet Greig  
+David Slack  
+Maggie McGrath  
+Andrea Konnerth  
+Cinta Damerell  
+Alexandra Paterson  
+Joanna Baber  
+Jessie Moss  
