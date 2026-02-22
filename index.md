@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (986 and counting)
+### Public Signatories (988 and counting)
 
-_As of 21/02/26_
+_As of 22/02/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1062,3 +1062,5 @@ Matthew Pratt
 Rohith Sunny  
 G Powell  
 Eli Joseph  
+Jessica Barnett  
+Zoe Smith  
