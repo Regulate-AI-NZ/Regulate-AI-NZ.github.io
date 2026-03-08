@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (821 and counting)
+### Public Signatories (996 and counting)
 
-_As of 26/01/26_
+_As of 08/03/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -897,3 +897,178 @@ Gemma Sloane
 Emma Roebuck  
 Nurul Sultan  
 Mark Davison  
+Serin Koh  
+Cameron McNabb White  
+James Thompson  
+Tjarda Wierdsma  
+Ms Angela van Eeden  
+Dr Tim Wright  
+Ngaire Causer  
+Marlies Dorrestein  
+Rachel Smith  
+Angela Clemens  
+Beth Marriott  
+`Sheena Henderson  
+Anne-Marie Morrison  
+Kate Darby  
+Elizabeth Hibbs  
+Sue Engels  
+Gayle Ferguson  
+Dr Ann Wood  
+Aleisha Havill  
+Sophie Bostwick  
+Gabrielle Watson  
+Sharon Lukitau-Ngaamo  
+Julie Williams  
+Kaja Jungersen  
+Elizabeth Penman  
+Anjana Iyer  
+Melodie Brown  
+Nicola Carroll  
+Odelia Schaare  
+Taynith Walker  
+Layling Stanbury  
+Taryn L  
+Leo McKay  
+Matthew Henden  
+Christina Chambers  
+Benjamin Aranui Hemara  
+Lee Smith-Gibbons  
+Holly Hudson  
+Haylee Erasmus  
+Albert Bannister  
+Alison James  
+Liam Coleman  
+Ella Fielding  
+May Key  
+Dr Karaitiana Taiuru, Taiuru & Associates Ltd  
+46063.5644119445  
+Frances Doran  
+Rebekah Ngatae  
+Mike Bennett  
+Tūī Kraal  
+Micayla Lowden  
+Dr Claire Meehan  
+Ellen Bingham  
+Kit Douglas Benham  
+Kirsty McMahon  
+Britta Hawkins  
+Helen Raskin  
+Jesse Allam  
+Averil May McLean  
+Robert Allam  
+Brie Allam  
+Caroline Robertson  
+Caroline Robertson, Spacecraft Architects  
+Averil May McLean  
+Johnny Brebner  
+Helen Phare  
+Kathleen Allam  
+Dominic Corry  
+Ben McCarthy  
+Louise Adams  
+Kirk Jackson  
+Charlie Matthews  
+Regan Harris  
+Ruby Lyon  
+Gwen Lyon  
+Elizabeth Doughty  
+Lynne Brunton  
+Melinda Hobbs  
+Kathryn Ducat-Green  
+Maryanne Cathro  
+Evangeline Speedy  
+Annie Hill  
+Micheline Evans  
+Kate McCaughan  
+Sarah Dove  
+Paul Milmine  
+Fiona Bartlett  
+Sarah Dunning  
+Craig Brown  
+Angela Gray  
+Lilly Fern  
+Christina M  
+Ninah Christie  
+Imogen van Dam  
+Elissa Weissman  
+Rowan Cant  
+Vidya Singh  
+Lisa Fox  
+Fiona Bartlett  
+Ish Doney  
+Jason Kyle  
+Samantha Finch  
+Jason Blair  
+Starsha Samarasinghe  
+Pinky Fang  
+Wendy Edmondson  
+Sarah Denton  
+Libby Adams  
+Marie Shkurkina  
+Tallulah Cardno  
+Ollie Taylor  
+Nik Williams  
+Anne Spence  
+Charlie Adams  
+Rory J. L. Brunton  
+Dr Tahira Malik  
+Odelia Schaare  
+Amantha Bowen  
+Tia Matchitt  
+Meng Teck Lin  
+Karishma Grebneff  
+Lizzie Thomas  
+Zoe Gardiner  
+Bruce Robert Coventry  
+Flo Everett  
+L Davies  
+David Willing  
+Christopher M  
+Dr Jordon Houston  
+Tania Adams  
+Nuanzhi Zheng  
+Talia Hicks  
+Hayley Judd  
+Hayden Judd  
+Grant Cumming  
+Tim Stannard  
+Jonathan Sweeney  
+Dan Bason  
+Dr Elle Henderson  
+Simon O'Neill  
+Isla Smyth  
+Georgia H  
+Anna Curnow  
+Prof Tammy Steeves, University of Canterbury  
+Janet Greig  
+David Slack  
+Maggie McGrath  
+Andrea Konnerth  
+Cinta Damerell  
+Alexandra Paterson  
+Joanna Baber  
+Jessie Moss  
+Dr Kahla Redman  
+Xavier Walsh  
+Rosario Iguin  
+Joshua James Marchant  
+Katy Thomas  
+D Anderson-Newton, No  
+Blanche Collins  
+Anna Dobson  
+Madeleine Le Breton  
+Matthew Pratt  
+Rohith Sunny  
+G Powell  
+Eli Joseph  
+Jessica Barnett  
+Zoe Smith  
+Karen Farmer MEd  
+Michael Naftel  
+Ms  
+Kylie D’Alessandro  
+Ria Masae  
+Janine Grainger  
+Ruben Castaing  
+Cameron Patterson  
