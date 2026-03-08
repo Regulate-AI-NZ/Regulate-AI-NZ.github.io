@@ -31,8 +31,24 @@ def main():
         print(f"Column '{col_name}' not found. Check your CSV format.")
         exit(1)
 
-    # Format signatures: Ensure they are stripped of whitespace then have 2 spaces for Markdown line break
-    formatted_signatures = [s.strip() + "  " for s in raw_signatures if s.strip()]
+    # Format signatures and remove duplicates while preserving first-seen order.
+    # Deduplication is case-insensitive and whitespace-normalized.
+    seen = set()
+    unique_signatures = []
+    for signature in raw_signatures:
+        cleaned = signature.strip()
+        if not cleaned:
+            continue
+
+        dedupe_key = cleaned.casefold()
+        if dedupe_key in seen:
+            continue
+
+        seen.add(dedupe_key)
+        unique_signatures.append(cleaned)
+
+    # Add 2 spaces for Markdown line breaks
+    formatted_signatures = [s + "  " for s in unique_signatures]
     count = len(formatted_signatures)
     
     # 3. UPDATE MARKDOWN FILE
