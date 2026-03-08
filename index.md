@@ -70,7 +70,7 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (996 and counting)
+### Public Signatories (967 and counting)
 
 _As of 08/03/26_
 
@@ -104,7 +104,7 @@ Dr Annisa Rahmalia, MPH
 Amelia Bentley  
 Beverly Fletcher  
 Bianca Grizhar  
-Andrea  Konnerth  
+Andrea Konnerth  
 Richard Littauer  
 Dave Lane, Lane Ventures Ltd  
 Helen Varley Jamieson  
@@ -214,7 +214,7 @@ Carina Letizia Meares
 Tania O'Regan  
 Lerk Shih Poh Stedman  
 Lani Raukawa Field  
-Abdullah Al Mamun , Victoria University of Wellington  
+Abdullah Al Mamun, Victoria University of Wellington  
 Stephanie Fill  
 Dr Sarah Hendrica Bickerton  
 Barbara L Howe  
@@ -297,7 +297,6 @@ Sheree Bright
 Joyce Gardner  
 Astrid Andersen  
 Sheree obri  
-Leah Brooks  
 Dr Brett Mann  
 Alice-Louise Barker  
 Nick Stuart  
@@ -335,7 +334,7 @@ Suzie Tingley
 Matt Farrington  
 Emeritus Professor Rowena Cullen  
 Helen Thomas  
-Ella Yiannoutsos , Grammelot Productions  
+Ella Yiannoutsos, Grammelot Productions  
 Amanda Riddell, Amanda Michelina's Progressive Party  
 Robin Marshall, Mdigital  
 Siobhan Patia  
@@ -454,7 +453,6 @@ Benn Jae
 Brett Higginson  
 Quentin Whitwell  
 Brett Larsen  
-Polly McKinnon  
 Matt Hunt  
 Melissa Sue Turner  
 Hamish Bruce  
@@ -510,7 +508,6 @@ Katia Collins
 Ruby Cumming  
 Rebecca Tansley  
 Tony Kellaway  
-Wilson Sze  
 Alexander Gandar  
 Prof. Karen Loop  
 Alexander Davidson  
@@ -548,7 +545,6 @@ Amber Rhodes
 Chloe Ockleston  
 Sophie Nielsen  
 Michael Clare  
-Catherine Mules  
 Dr Philippa Mules  
 Liam Ryan  
 Tim Morrison  
@@ -564,8 +560,6 @@ S Steens
 Dr Alison Campbell  
 Oliver Mould  
 Rebecca Cox  
-Terry Bellamak  
-Dagan McGregor  
 Kieran Pegler  
 Dr. Geoff Stahl, Victoria University of Wellington  
 Anjuli Muller  
@@ -655,7 +649,6 @@ L Catchpole
 Nichola Williams  
 Sara Meij-Kilpatrick  
 Richard Rhys David Christy-Jones  
-Hayley Ness  
 El Glynn  
 Lauren graham  
 Dr Ashley Young  
@@ -698,7 +691,6 @@ Nicola Easthope
 Charles Goodwin  
 Helen Jamieson  
 Oliver John Mould, Canterbury  
-Dr Sanjana Hattotuwa  
 Jane Colhoun  
 Marilyn Hunt  
 Mike Smithies  
@@ -713,16 +705,10 @@ Clayton F
 Sonya Bloomfield  
 Heather Lowrie  
 Praise Nweke  
-Hayley Wolters  
-Dr. Kevin Veale  
-Jennifer Ward  
-Beverly Fletcher  
-Rachel Priebee  
 Anna Curnow  
 Jeffrey David Howell  
 Catherine Robertson  
 Dr Sarah Fowler  
-James Gardner  
 Teresa Urquhart  
 Professor Andrew Jull  
 Antony Southworth  
@@ -734,7 +720,6 @@ Dr Valerie Milne
 Nicholas Cavaye  
 Hannah Molloy  
 Denise Cone  
-Dr Alison Campbell  
 Janet Greig  
 Lisa McFarland  
 Chris Sharpe  
@@ -743,7 +728,6 @@ Dr. Rosemary Hipkins
 Dr Aleisha Ward  
 Michelle Coburn  
 Kate Mahoney  
-Chip Self  
 Daniel J Ryan  
 Rochelle Tickle  
 Monique Tickle  
@@ -792,7 +776,6 @@ Graeme Wilkinson
 Hineoteata Nepe Apagu  
 Dave Stonyer  
 Amie LaRouche  
-Nomes Lorimer  
 Bridget Laugesen  
 Alice Mandy Doig  
 Brigid McCaffery  
@@ -903,9 +886,7 @@ James Thompson
 Tjarda Wierdsma  
 Ms Angela van Eeden  
 Dr Tim Wright  
-Ngaire Causer  
 Marlies Dorrestein  
-Rachel Smith  
 Angela Clemens  
 Beth Marriott  
 `Sheena Henderson  
@@ -922,7 +903,6 @@ Sharon Lukitau-Ngaamo
 Julie Williams  
 Kaja Jungersen  
 Elizabeth Penman  
-Anjana Iyer  
 Melodie Brown  
 Nicola Carroll  
 Odelia Schaare  
@@ -937,7 +917,6 @@ Lee Smith-Gibbons
 Holly Hudson  
 Haylee Erasmus  
 Albert Bannister  
-Alison James  
 Liam Coleman  
 Ella Fielding  
 May Key  
@@ -960,7 +939,6 @@ Robert Allam
 Brie Allam  
 Caroline Robertson  
 Caroline Robertson, Spacecraft Architects  
-Averil May McLean  
 Johnny Brebner  
 Helen Phare  
 Kathleen Allam  
@@ -995,7 +973,6 @@ Elissa Weissman
 Rowan Cant  
 Vidya Singh  
 Lisa Fox  
-Fiona Bartlett  
 Ish Doney  
 Jason Kyle  
 Samantha Finch  
@@ -1013,7 +990,6 @@ Anne Spence
 Charlie Adams  
 Rory J. L. Brunton  
 Dr Tahira Malik  
-Odelia Schaare  
 Amantha Bowen  
 Tia Matchitt  
 Meng Teck Lin  
@@ -1035,16 +1011,13 @@ Grant Cumming
 Tim Stannard  
 Jonathan Sweeney  
 Dan Bason  
-Dr Elle Henderson  
+46070.545396088  
 Simon O'Neill  
 Isla Smyth  
 Georgia H  
-Anna Curnow  
 Prof Tammy Steeves, University of Canterbury  
-Janet Greig  
 David Slack  
 Maggie McGrath  
-Andrea Konnerth  
 Cinta Damerell  
 Alexandra Paterson  
 Joanna Baber  
@@ -1053,7 +1026,6 @@ Dr Kahla Redman
 Xavier Walsh  
 Rosario Iguin  
 Joshua James Marchant  
-Katy Thomas  
 D Anderson-Newton, No  
 Blanche Collins  
 Anna Dobson  
@@ -1070,5 +1042,4 @@ Ms
 Kylie D’Alessandro  
 Ria Masae  
 Janine Grainger  
-Ruben Castaing  
 Cameron Patterson  
