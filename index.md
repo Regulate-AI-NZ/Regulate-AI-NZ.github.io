@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1014 and counting)
+### Public Signatories (1042 and counting)
 
-_As of 15/03/26_
+_As of 16/03/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1090,3 +1090,31 @@ Nicholas Hawkins
 Kate Prior  
 Christopher Sanderson  
 Anton Robert Craig  
+Carla deBoer  
+Hera Taiapa  
+Samantha Chami  
+Rev. Martin J Fey  
+Kelsey Murray  
+Daisy Sheehan  
+Rachel Barratt  
+Teresa Nelson  
+Rikke Scott  
+Owen Easterbrook-Smith  
+Prof. Virginia Braun  
+pip adam  
+Michael Foster  
+Craig Douglas Martin  
+Dr Tina Makereti , Te Herenga Waka Victoria University of Wellington  
+Jeanelle Du Preez  
+Tim Jenkins  
+Caden Currie  
+Dr. Fiona McCormack  
+Nina Saville-Smith  
+Stella Rutherford  
+Anne Levin  
+Gwen Brandt MD  
+Peter Ashford  
+Kylie Etherton  
+Dr Sophie Jerram  
+Christine Headey  
+Imogen McIntyre  
