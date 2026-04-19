@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1075 and counting)
+### Public Signatories (1077 and counting)
 
-_As of 18/04/26_
+_As of 19/04/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1151,3 +1151,5 @@ Centean Ruawai
 Gretta Mills  
 Petria  
 Unity Crabtree  
+Melanie Watterson  
+Gareth Redman  
