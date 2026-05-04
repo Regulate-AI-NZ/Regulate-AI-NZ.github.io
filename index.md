@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1087 and counting)
+### Public Signatories (1088 and counting)
 
-_As of 03/05/26_
+_As of 04/05/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1163,3 +1163,4 @@ Graeme Austin
 Ursula Macfarlane  
 Mrs Lisa Lingman  
 Dr, Victoria University of Wellington  
+Prof. James Noble, INRIA Lille and programming.ac.nz  
