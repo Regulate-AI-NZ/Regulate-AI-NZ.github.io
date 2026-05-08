@@ -70,9 +70,9 @@ Rochelle Style, Personal Capacity
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1095 and counting)
+### Public Signatories (1102 and counting)
 
-_As of 07/05/26_
+_As of 08/05/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1171,3 +1171,10 @@ Michael Thomson
 Anjana Iyer, Good Growth Studio  
 Jamie Thomas  
 Rowan Clements  
+Dr Tristan David Katz  
+Hannah Blakely  
+Warrick Isaachsen  
+Thomas Kuehne, Victoria University of Wellington  
+Akshat Ojha  
+Melanie Jones  
+Dion Bramley  
