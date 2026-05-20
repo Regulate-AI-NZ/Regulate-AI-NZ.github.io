@@ -71,9 +71,9 @@ Associate Professor Karsten Lundqvist, Victoria University of Wellington
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1118 and counting)
+### Public Signatories (1129 and counting)
 
-_As of 19/05/26_
+_As of 20/05/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1195,3 +1195,14 @@ Darren Mosher
 Rebekah Fox  
 Donna Toailoa  
 Michael Eremin  
+Marion Prebble  
+Jane Lobb  
+Mark Prebble  
+Bex De Prospo Carr, Authentic Storytelling  
+Anthea Whittle, simpact AI  
+Florence Hartigan  
+Elizabeth Panteleeva  
+Pauline Logger, MENZA (Music Education NZ Aotearoa)  
+Helena Coulton  
+Jemma Reynolds, Moral Compass Trust  
+Qaswar Al Mousa, Victoria University  
