@@ -64,6 +64,7 @@ Professor Alexandra Andhov, University of Auckland
 Professor Michael Winikoff, Victoria University of Wellington  
 Matt Farrington, Personal Capacity  
 Rochelle Style, Personal Capacity  
+Associate Professor Karsten Lundqvist, Victoria University of Wellington  
 
 ### Politicial Signatories
 
