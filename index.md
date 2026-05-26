@@ -71,9 +71,9 @@ Associate Professor Karsten Lundqvist, Victoria University of Wellington
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1137 and counting)
+### Public Signatories (1184 and counting)
 
-_As of 24/05/26_
+_As of 26/05/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1214,3 +1214,50 @@ Callum Powell
 Blair Wotton  
 D Shibusawa  
 Clive Elliott KC  
+Dr Andy Connor  
+Cyndi Miller  
+Soon Lee  
+Jacqueline Yoshioka  
+Caren Wilton  
+Cindy Baxter  
+Kathryn Sluka  
+Lynley Chapman  
+Jasmin Taylor  
+Jason Bishopp  
+Harriet Elworthy  
+Shannon O'Neill  
+Thabata Romanowski, Data Rocks  
+Dr Zane Robert Valpy Bruce  
+William James Semple Caldwell  
+Mike Parrish  
+craig anderson  
+Jo Nicol  
+Dr Andrew Fung  
+Jane Hinkley  
+Jim Pinckney  
+Douglas Davey  
+Dr Susan Taylor  
+Jake Barnett  
+Allanah Clark  
+Veronica Culpan  
+Lisa Maule  
+Mel Willmott  
+Christopher Mills  
+Emma Barnes  
+Aidan Francis MacNaughton, BA (Hons)  
+Louise Hutt  
+Isabel Hitchings  
+Dr Jenny Pevreal  
+Charmaine Douglas  
+Oliver John Mould  
+Bob Waghorn  
+Dr Sally Greaves  
+Kate Studley  
+Janette Joy Longshaw  
+James Elliston  
+Andrea  Konnerth  
+Sheree Hollis  
+Anna Jackson  
+Cath Sheard  
+Robert Neil van Garderen  
+Bill Manhire  
