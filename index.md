@@ -71,9 +71,9 @@ Associate Professor Karsten Lundqvist, Victoria University of Wellington
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1186 and counting)
+### Public Signatories (1189 and counting)
 
-_As of 27/05/26_
+_As of 28/05/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1263,3 +1263,6 @@ Robert Neil van Garderen
 Bill Manhire  
 Michael robins  
 Associate Professor Simon J Greenhill  
+Odysseus Khalil Quarles  
+Emma Anderson  
+Angel Lagerwaard  
