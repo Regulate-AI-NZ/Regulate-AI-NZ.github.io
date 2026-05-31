@@ -71,9 +71,9 @@ Associate Professor Karsten Lundqvist, Victoria University of Wellington
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1212 and counting)
+### Public Signatories (1213 and counting)
 
-_As of 30/05/26_
+_As of 31/05/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1289,3 +1289,4 @@ Associate Professor Suze Wilson , Massey University
 Ken Roper  
 Rosemary Smith  
 Adrienne Potts  
+Wendi Wicks  
