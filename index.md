@@ -71,9 +71,9 @@ Associate Professor Karsten Lundqvist, Victoria University of Wellington
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1246 and counting)
+### Public Signatories (1247 and counting)
 
-_As of 15/06/26_
+_As of 16/06/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1323,3 +1323,4 @@ Delainy Kennedy, Artificial Imagination
 Oliver Tresidder  
 Sharon Anne Campbell  
 Hannah Lockie  
+Suzanne Rex  
