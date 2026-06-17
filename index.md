@@ -76,7 +76,8 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 _As of 16/06/26_
 
-Add your signature here: [Sign]({{ "/sign/" | relative_url }}). If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.
+Add your signature here: [Sign]({{ "/sign/" | relative_url }}).  
+If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  
 
 Polly Mckinnon  
 Paul Thistoll, Rights Aotearoa  
