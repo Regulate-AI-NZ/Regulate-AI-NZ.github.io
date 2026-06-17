@@ -74,10 +74,9 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 ### Public Signatories (1247 and counting)
 
-_As of 16/06/26_
+_As of 17/06/26_
 
-Add your signature here: [Sign]({{ "/sign/" | relative_url }}).  
-If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  
+Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
 Polly Mckinnon  
 Paul Thistoll, Rights Aotearoa  
@@ -923,6 +922,8 @@ Albert Bannister
 Liam Coleman  
 Ella Fielding  
 May Key  
+Dr Karaitiana Taiuru, Taiuru & Associates Ltd  
+46063.5644119445  
 Frances Doran  
 Rebekah Ngatae  
 Mike Bennett  
