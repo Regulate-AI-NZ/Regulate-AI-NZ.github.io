@@ -65,6 +65,7 @@ Professor Michael Winikoff, Victoria University of Wellington
 Matt Farrington, Personal Capacity  
 Rochelle Style, Personal Capacity  
 Associate Professor Karsten Lundqvist, Victoria University of Wellington  
+Dr Karaitiana Taiuru, Taiuru & Associates Ltd  
 
 ### Politicial Signatories
 
@@ -75,7 +76,7 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 _As of 16/06/26_
 
-Add your signature here: [Sign]({{ "/sign/" | relative_url }})
+Add your signature here: [Sign]({{ "/sign/" | relative_url }}). If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.
 
 Polly Mckinnon  
 Paul Thistoll, Rights Aotearoa  
@@ -921,8 +922,6 @@ Albert Bannister
 Liam Coleman  
 Ella Fielding  
 May Key  
-Dr Karaitiana Taiuru, Taiuru & Associates Ltd  
-46063.5644119445  
 Frances Doran  
 Rebekah Ngatae  
 Mike Bennett  
