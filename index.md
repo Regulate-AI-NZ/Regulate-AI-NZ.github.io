@@ -72,9 +72,9 @@ Dr Karaitiana Taiuru, Taiuru & Associates Ltd
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1250 and counting)
+### Public Signatories (1251 and counting)
 
-_As of 20/06/26_
+_As of 21/06/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
@@ -1328,3 +1328,4 @@ Suzanne Rex
 Mandy Wong  
 Katie Sullivan  
 Dr Mathew Zacharias  
+Dr A-Jull Lim  
