@@ -74,7 +74,7 @@ Marama Davidson, Green Party of Aotearoa New Zealand
 
 ### Public Signatories (1260 and counting)
 
-_As of 03/07/26_
+_As of 04/07/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }})
 
