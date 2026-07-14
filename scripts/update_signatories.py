@@ -75,7 +75,8 @@ def main():
     
     new_section = f"{marker} ({count} and counting)\n\n"
     new_section += f"_As of {today}_\n\n"
-    new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}})\n\n"
+    new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}}).  \n"
+    new_section += "If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  \n\n"
     new_section += "\n".join(formatted_signatures)
     
     # 4. SAVE CHANGES

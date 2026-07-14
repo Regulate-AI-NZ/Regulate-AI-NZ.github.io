@@ -72,11 +72,12 @@ Dr Karaitiana Taiuru, Taiuru & Associates Ltd
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1261 and counting)
+### Public Signatories (1243 and counting)
 
 _As of 14/07/26_
 
-Add your signature here: [Sign]({{ "/sign/" | relative_url }})
+Add your signature here: [Sign]({{ "/sign/" | relative_url }}).  
+If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  
 
 Polly Mckinnon  
 Paul Thistoll, Rights Aotearoa  
@@ -98,7 +99,6 @@ Mike Kilpatrick
 Renee Sturch  
 Frankie Karetai Wood-Bodley, Queerly Legal  
 Prof. Paul Kruger  
-Frankie Karetai Wood-Bodley  
 Jack Weekly, Bupper  
 Dr. Kevin Veale, Aotearoa Communication & Media Scholars  
 Craig Johnston  
@@ -223,7 +223,7 @@ Barbara L Howe
 Dr Douglas Campobell, University of Canterbury  
 Jo Oliver, Recorded Music NZ  
 Ana-Maria Mocanu  
-Patrick PIlcher  
+Patrick Pilcher  
 Helena Page  
 David Udy  
 Hamish Fraser  
@@ -288,9 +288,8 @@ Julie Thomas
 Thomas Kay  
 Jane Myhill  
 Donna Barber  
-SImon Burge  
+Simon Burge  
 Melanie Duncan  
-Brett Mann  
 Helen Mann  
 Leah Brooks  
 Nick Mann  
@@ -333,7 +332,6 @@ Archana Atmakuri
 Geoff Palmer  
 Rebecca Ericksen  
 Suzie Tingley  
-Matt Farrington  
 Emeritus Professor Rowena Cullen  
 Helen Thomas  
 Ella Yiannoutsos, Grammelot Productions  
@@ -399,7 +397,7 @@ Maximilian Carey Oldfield
 Aaron Weir  
 Robert Pendergrast  
 Helen Naulls  
-sam fraser, sam fraser  
+Sam Fraser  
 Gabriel Carpanedo  
 Benjamin Kumar Witter  
 Lisa Foothead  
@@ -557,7 +555,6 @@ William Philipson
 Chris Cozens  
 Catherine Low  
 Andy O'Brien  
-Fiona McCormack  
 S Steens  
 Dr Alison Campbell  
 Oliver Mould  
@@ -604,7 +601,6 @@ Donald Roberts
 Margaretha Roberts  
 Dr Mark Stewart, University of Waikato  
 David Clark  
-Dr. Kevin Veale  
 Kay Tester  
 Dr Roger Horrocks, Emeritus Professor, University of Auckland  
 Anna Rochford  
@@ -618,9 +614,7 @@ Simon taverner
 Rosemary Keating  
 Timothy Michaelson  
 Dr Wendy Reynolds  
-Anjana Iyer  
 Professor Steven Galbraith  
-Dave Lane  
 Jeremy Dunningham  
 Greg Dodds  
 Eva Balogh  
@@ -632,7 +626,7 @@ Nikoletta Soos
 Howard Clement  
 Michael Athol Parkes  
 Madi Brokenshire  
-David Fale, N/A  
+David Fale  
 Dr Monica Handler, Te Herenga Waka Victoria University of Wellington  
 Joanna Wallis  
 Glenn Wallis  
@@ -663,7 +657,6 @@ Karen Singleton
 M Key  
 Olivia Trilford  
 Rebecca Máire Roberts  
-Concerned Citizen  
 Emma Godwin  
 Master Manas Suryadevara  
 Miss Samantha Calder  
@@ -872,7 +865,7 @@ Noah Walker
 Erana Hokopaura-Watkins  
 Jordan Kingston  
 Mrs Amy Pamela Marshall  
-Susann Winter, N/A  
+Susann Winter  
 Ainsley Peters  
 Riikka Lintola-Reihana  
 Ria Vandervis  
@@ -891,7 +884,7 @@ Dr Tim Wright
 Marlies Dorrestein  
 Angela Clemens  
 Beth Marriott  
-`Sheena Henderson  
+Sheena Henderson  
 Anne-Marie Morrison  
 Kate Darby  
 Elizabeth Hibbs  
@@ -922,8 +915,6 @@ Albert Bannister
 Liam Coleman  
 Ella Fielding  
 May Key  
-Dr Karaitiana Taiuru, Taiuru & Associates Ltd  
-46063.5644119445  
 Frances Doran  
 Rebekah Ngatae  
 Mike Bennett  
@@ -939,7 +930,6 @@ Jesse Allam
 Averil May McLean  
 Robert Allam  
 Brie Allam  
-Caroline Robertson  
 Caroline Robertson, Spacecraft Architects  
 Johnny Brebner  
 Helen Phare  
@@ -1013,7 +1003,6 @@ Grant Cumming
 Tim Stannard  
 Jonathan Sweeney  
 Dan Bason  
-46070.545396088  
 Simon O'Neill  
 Isla Smyth  
 Georgia H  
@@ -1028,7 +1017,7 @@ Dr Kahla Redman
 Xavier Walsh  
 Rosario Iguin  
 Joshua James Marchant  
-D Anderson-Newton, No  
+D Anderson-Newton  
 Blanche Collins  
 Anna Dobson  
 Madeleine Le Breton  
@@ -1040,7 +1029,6 @@ Jessica Barnett
 Zoe Smith  
 Karen Farmer MEd  
 Michael Naftel  
-Ms  
 Kylie D’Alessandro  
 Ria Masae  
 Janine Grainger  
@@ -1056,7 +1044,7 @@ Poppy Wotherspoon
 Liam Coll  
 Holly Meek  
 Rebecca Lee  
-Dr Nicole  Anfang  
+Dr Nicole Anfang  
 Mari Vuorinen  
 Gina Webb  
 Suzanna Persad  
@@ -1137,7 +1125,6 @@ Sarah Albom
 Cassandra Tse  
 Emily Crawford  
 Philip Pentchev  
-Lani Evans  
 Danette Muollo  
 Lani Evans, Fundsorter  
 Travis Pidwerbesky  
@@ -1164,7 +1151,6 @@ John Alexander Massie
 Graeme Austin  
 Ursula Macfarlane  
 Mrs Lisa Lingman  
-Dr, Victoria University of Wellington  
 Prof. James Noble, INRIA Lille and programming.ac.nz  
 Julian Grainger, International Association of Algorithmic Auditors  
 Emily Lancaster  
@@ -1186,7 +1172,7 @@ Oliver Ewert
 Ashley Murphy  
 Natalie Yvonne Knight CA  
 Ms Joanne Armstrong  
-Catherine Douglas , N/A  
+Catherine Douglas  
 Tolulope Orebanwo  
 Laura Dillon  
 Linh Young  
@@ -1234,7 +1220,6 @@ Mike Parrish
 craig anderson  
 Jo Nicol  
 Dr Andrew Fung  
-Jane Hinkley  
 Jim Pinckney  
 Douglas Davey  
 Dr Susan Taylor  
@@ -1250,13 +1235,11 @@ Louise Hutt
 Isabel Hitchings  
 Dr Jenny Pevreal  
 Charmaine Douglas  
-Oliver John Mould  
 Bob Waghorn  
 Dr Sally Greaves  
 Kate Studley  
 Janette Joy Longshaw  
 James Elliston  
-Andrea  Konnerth  
 Sheree Hollis  
 Anna Jackson  
 Cath Sheard  
