@@ -31,7 +31,8 @@ CREDS_FILE = "/Users/lensenandr/.config/gsheets/regulate-ai-nz.json"
 SHEET_KEY = "1UrtyrRHjwH_Hi5k4-RoNjmGgD_hV74bdtB6NAJQh2OE"
 SOURCE_TAB = "Form responses 1"
 CACHE_TAB = "Classification"
-CACHE_HEADER = ["Key", "Name", "Org", "Sector", "Method", "Confidence", "ClassifiedAt"]
+CACHE_HEADER = ["Key", "Name", "Org", "Sector", "Method", "Confidence",
+                "ClassifiedAt", "Detail"]
 
 SECTORS = [
     "academic-research",
@@ -261,20 +262,20 @@ def main():
             continue
         key = f"{ts}|{name}"
 
-        if key in cache:  # manual override or previous LLM result
+        if key in cache:  # manual override or previous settled result
             c = cache[key]
             out_rows.append([key, name, org, c["Sector"], c["Method"],
-                             c["Confidence"], c["ClassifiedAt"]])
+                             c["Confidence"], c["ClassifiedAt"], c["Detail"]])
             continue
 
         sector, conf = rule_classify(name, org, email)
         if sector:
-            out_rows.append([key, name, org, sector, "rule", conf, now])
+            out_rows.append([key, name, org, sector, "rule", conf, now, ""])
         elif org and not args.no_llm:
-            out_rows.append([key, name, org, "unknown", "none", "", now])
+            out_rows.append([key, name, org, "unknown", "none", "", now, ""])
             pending_llm.append((len(out_rows) - 1, org))
         else:
-            out_rows.append([key, name, org, "unknown", "none", "", now])
+            out_rows.append([key, name, org, "unknown", "none", "", now, ""])
 
     if pending_llm:
         unique_orgs = sorted({org for _, org in pending_llm})

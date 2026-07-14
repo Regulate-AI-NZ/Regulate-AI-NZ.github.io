@@ -195,8 +195,9 @@ def main():
         if args.limit and done >= args.limit:
             break
         if hopeless:
-            ws.update(values=[["unknown", "web-miss", "", now]],
-                      range_name=f"D{row_i}:G{row_i}", raw=True)
+            ws.update(values=[["unknown", "web-miss", "", now,
+                               "unsearchable (initials/partial name)"]],
+                      range_name=f"D{row_i}:H{row_i}", raw=True)
             print(f"  {name!r}: unsearchable -> web-miss", flush=True)
             continue
 
@@ -219,14 +220,16 @@ def main():
             time.sleep(args.delay)
             continue
 
+        detail = (evidence or "")[:300]
         if sector:
             hits += 1
-            ws.update(values=[[sector, "web", conf, now]],
-                      range_name=f"D{row_i}:G{row_i}", raw=True)
+            ws.update(values=[[sector, "web", conf, now, detail]],
+                      range_name=f"D{row_i}:H{row_i}", raw=True)
             print(f"  {name!r}: {sector} ({conf}) — {evidence}", flush=True)
         else:
-            ws.update(values=[["unknown", "web-miss", "", now]],
-                      range_name=f"D{row_i}:G{row_i}", raw=True)
+            ws.update(values=[["unknown", "web-miss", "", now,
+                               detail or "no confident match"]],
+                      range_name=f"D{row_i}:H{row_i}", raw=True)
             print(f"  {name!r}: no confident match -> web-miss", flush=True)
         time.sleep(args.delay)
 
