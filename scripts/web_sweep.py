@@ -117,25 +117,29 @@ _active_model = [None]  # sticky: once a model works, stop retrying the others
 def gemini_judge(client, name, results_text):
     contents = PROMPT.format(name=name, results=results_text or "(no results)",
                              sectors=", ".join(SECTORS))
-    models = [_active_model[0]] if _active_model[0] else GEMINI_MODELS
+    # Preferred (last-working) model first, but always keep the others as
+    # fallbacks; if every model is load-shedding (503), wait and retry once.
+    models = ([_active_model[0]] if _active_model[0] else []) + \
+             [m for m in GEMINI_MODELS if m != _active_model[0]]
     response = None
-    for model in models:
-        for attempt in range(3):
+    for round_ in range(2):
+        for model in models:
             try:
                 response = client.models.generate_content(model=model, contents=contents)
                 _active_model[0] = model
                 break
             except Exception as e:
                 msg = str(e)
-                if "429" in msg and attempt < 2:
+                if "429" in msg:
                     time.sleep(45)  # RPM burst — wait out the minute window
                     continue
                 if "503" in msg:
-                    response = None
-                    break  # overloaded — try next model
+                    continue  # overloaded — try next model
                 raise
         if response is not None:
             break
+        if round_ == 0:
+            time.sleep(20)  # every model shedding load — brief pause, retry all
     if response is None:
         raise RuntimeError("all Gemini models unavailable (503)")
     text = (response.text or "").strip()
@@ -155,8 +159,9 @@ def main():
     parser.add_argument("--limit", type=int, default=25,
                         help="max names to process this run (0 = no limit)")
     parser.add_argument("--dry-run", action="store_true")
-    parser.add_argument("--delay", type=float, default=4.0,
-                        help="seconds between names (Brave 1 rps; Gemini free ~15 RPM)")
+    parser.add_argument("--delay", type=float, default=1.5,
+                        help="seconds between names (Brave free tier is 1 req/sec, "
+                             "which is the binding rate; paid Gemini has ample RPM)")
     args = parser.parse_args()
 
     gc = gspread.service_account(filename=CREDS_FILE)
