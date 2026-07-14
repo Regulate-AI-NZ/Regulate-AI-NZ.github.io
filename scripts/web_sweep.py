@@ -55,7 +55,7 @@ on AI regulation, in aggregate. Below are web search results for a signatory's
 name searched with New Zealand context.
 
 Name: {name}
-
+{context}
 Search results:
 {results}
 
@@ -114,8 +114,9 @@ def brave_search(api_key, name):
 _active_model = [None]  # sticky: once a model works, stop retrying the others
 
 
-def gemini_judge(client, name, results_text):
-    contents = PROMPT.format(name=name, results=results_text or "(no results)",
+def gemini_judge(client, name, results_text, context=""):
+    contents = PROMPT.format(name=name, context=context,
+                             results=results_text or "(no results)",
                              sectors=", ".join(SECTORS))
     # Preferred (last-working) model first, but always keep the others as
     # fallbacks; if every model is load-shedding (503), wait and retry once.
@@ -162,6 +163,10 @@ def main():
     parser.add_argument("--delay", type=float, default=1.5,
                         help="seconds between names (Brave free tier is 1 req/sec, "
                              "which is the binding rate; paid Gemini has ample RPM)")
+    parser.add_argument("--verify-rules", action="store_true",
+                        help="re-check rule-classified rows (e.g. 'Dr' may be a "
+                             "medical doctor, not academic) and fill in Detail; "
+                             "keeps the rule classification when inconclusive")
     args = parser.parse_args()
 
     gc = gspread.service_account(filename=CREDS_FILE)
@@ -170,15 +175,24 @@ def main():
 
     pending = []
     for i, r in enumerate(rows[1:], start=2):
-        name = r[1].strip()
-        if r[4] != "none" or not name:
+        r = r + [""] * (8 - len(r))
+        name, org, sector, method, detail = (r[1].strip(), r[2].strip(),
+                                             r[3], r[4], r[7])
+        if not name:
             continue
-        base = re.sub(r"[^a-zA-Z ]", "", name).strip()
-        parts = base.split()
-        hopeless = len(parts) < 2 or any(len(p) == 1 for p in parts[:2]) or not base
-        pending.append((i, name, hopeless))
+        if args.verify_rules:
+            if method != "rule" or detail:
+                continue  # only unchecked rule rows
+            pending.append((i, name, org, sector, False))
+        else:
+            if method != "none":
+                continue
+            base = re.sub(r"[^a-zA-Z ]", "", name).strip()
+            parts = base.split()
+            hopeless = len(parts) < 2 or any(len(p) == 1 for p in parts[:2]) or not base
+            pending.append((i, name, org, None, hopeless))
 
-    n_hopeless = sum(1 for _, _, h in pending if h)
+    n_hopeless = sum(1 for *_, h in pending if h)
     print(f"{len(pending)} unprocessed rows ({n_hopeless} unsearchable, "
           f"{len(pending) - n_hopeless} searchable)")
     if args.dry_run:
@@ -191,7 +205,7 @@ def main():
 
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     done = hits = errors = 0
-    for row_i, name, hopeless in pending:
+    for row_i, name, org, rule_sector, hopeless in pending:
         if args.limit and done >= args.limit:
             break
         if hopeless:
@@ -203,11 +217,19 @@ def main():
 
         done += 1
         try:
-            # strip any descriptor after a comma for the search itself
-            search_name = name.split(",")[0].strip()
-            results_text = brave_search(brave_key, search_name)
+            # strip titles/descriptors for the search query itself
+            search_name = re.sub(r"^(dr|prof(essor)?|assoc\w* prof\w*|emeritus prof\w*)\.?\s+",
+                                 "", name.split(",")[0].strip(), flags=re.I)
+            query_extra = " " + org if org else ""
+            results_text = brave_search(brave_key, search_name + query_extra)
             time.sleep(1.1)  # Brave free tier: 1 req/sec
-            sector, conf, evidence = gemini_judge(client, name, results_text)
+            context = ""
+            if args.verify_rules:
+                context = (f'\nThey signed with affiliation "{org}".' if org else "") + (
+                    f'\nOur provisional rule-based guess is "{rule_sector}" — '
+                    'note a "Dr" title may mean a medical doctor, vet, or other '
+                    "clinician rather than an academic. Confirm or correct.\n")
+            sector, conf, evidence = gemini_judge(client, name, results_text, context)
             errors = 0
         except Exception as e:
             msg = str(e)
@@ -225,7 +247,14 @@ def main():
             hits += 1
             ws.update(values=[[sector, "web", conf, now, detail]],
                       range_name=f"D{row_i}:H{row_i}", raw=True)
-            print(f"  {name!r}: {sector} ({conf}) — {evidence}", flush=True)
+            flag = (" (was rule: %s)" % rule_sector
+                    if args.verify_rules and sector != rule_sector else "")
+            print(f"  {name!r}: {sector} ({conf}){flag} — {evidence}", flush=True)
+        elif args.verify_rules:
+            # inconclusive — keep the rule classification, just note the check
+            ws.update(values=[["web check inconclusive; rule classification retained"]],
+                      range_name=f"H{row_i}", raw=True)
+            print(f"  {name!r}: inconclusive, kept rule={rule_sector}", flush=True)
         else:
             ws.update(values=[["unknown", "web-miss", "", now,
                                detail or "no confident match"]],

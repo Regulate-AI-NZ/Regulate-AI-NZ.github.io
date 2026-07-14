@@ -226,14 +226,17 @@ def load_cache(ss):
         return ws, {}
     rows = ws.get_all_values()
     cache = {}
+    details = {}  # Detail is sticky for ALL rows, even recomputed ones
     for r in rows[1:]:
         if r and r[0]:
             entry = dict(zip(CACHE_HEADER, r + [""] * (len(CACHE_HEADER) - len(r))))
+            if entry["Detail"]:
+                details[r[0]] = entry["Detail"]
             # web-miss = web-searched, no confident match found; kept so future
             # sweeps know not to re-search. Sector stays "unknown".
             if entry["Method"] in ("manual", "llm", "domain", "self", "web", "web-miss"):
                 cache[r[0]] = entry
-    return ws, cache
+    return ws, cache, details
 
 
 def main():
@@ -246,7 +249,7 @@ def main():
     source = ss.worksheet(SOURCE_TAB)
     rows = source.get_all_values()[1:]
 
-    cache_ws, cache = load_cache(ss)
+    cache_ws, cache, details = load_cache(ss)
     print(f"{len(rows)} signatories, {len(cache)} settled in cache (manual/llm)")
 
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -268,14 +271,15 @@ def main():
                              c["Confidence"], c["ClassifiedAt"], c["Detail"]])
             continue
 
+        detail = details.get(key, "")
         sector, conf = rule_classify(name, org, email)
         if sector:
-            out_rows.append([key, name, org, sector, "rule", conf, now, ""])
+            out_rows.append([key, name, org, sector, "rule", conf, now, detail])
         elif org and not args.no_llm:
-            out_rows.append([key, name, org, "unknown", "none", "", now, ""])
+            out_rows.append([key, name, org, "unknown", "none", "", now, detail])
             pending_llm.append((len(out_rows) - 1, org))
         else:
-            out_rows.append([key, name, org, "unknown", "none", "", now, ""])
+            out_rows.append([key, name, org, "unknown", "none", "", now, detail])
 
     if pending_llm:
         unique_orgs = sorted({org for _, org in pending_llm})
