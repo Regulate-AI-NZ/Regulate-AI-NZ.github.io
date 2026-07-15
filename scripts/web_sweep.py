@@ -10,7 +10,7 @@ For each Classification row with Method == "none":
 
 Results are written back to the Classification tab:
   - confident match    -> Method "web",      Sector set, Confidence high/medium
-  - no confident match -> Method "web-miss", Sector "unknown"
+  - no confident match -> Method "web-no-match", Sector "unknown"
 Both are preserved by classify_signatories.py across re-runs, so the sweep is
 resumable and never re-searches a name. Gemini free-tier daily quota may stop
 a long run early — just re-run the next day.
@@ -194,7 +194,7 @@ def main():
         if not name:
             continue
         if args.verify_rules:
-            if method != "rule" or detail:
+            if method not in ("rule", "auto-rule") or detail:
                 continue  # only unchecked rule rows
             pending.append((i, name, org, sector, False))
         else:
@@ -222,7 +222,7 @@ def main():
         if args.limit and done >= args.limit:
             break
         if hopeless:
-            ws.update(values=[["unknown", "web-miss", "", now,
+            ws.update(values=[["unknown", "web-no-match", "", now,
                                "unsearchable (initials/partial name)"]],
                       range_name=f"D{row_i}:H{row_i}", raw=True)
             print(f"  {name!r}: unsearchable -> web-miss", flush=True)
@@ -261,7 +261,7 @@ def main():
         detail = (evidence or "")[:300]
         if sector:
             hits += 1
-            ws.update(values=[[sector, "web", conf, now, detail]],
+            ws.update(values=[[sector, "web-found", conf, now, detail]],
                       range_name=f"D{row_i}:H{row_i}", raw=True)
             flag = (" (was rule: %s)" % rule_sector
                     if args.verify_rules and sector != rule_sector else "")
@@ -272,7 +272,7 @@ def main():
                       range_name=f"H{row_i}", raw=True)
             print(f"  {name!r}: inconclusive, kept rule={rule_sector}", flush=True)
         else:
-            ws.update(values=[["unknown", "web-miss", "", now,
+            ws.update(values=[["unknown", "web-no-match", "", now,
                                detail or "no confident match"]],
                       range_name=f"D{row_i}:H{row_i}", raw=True)
             print(f"  {name!r}: no confident match -> web-miss", flush=True)

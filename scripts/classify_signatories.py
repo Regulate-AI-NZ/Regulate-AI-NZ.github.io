@@ -234,7 +234,10 @@ def load_cache(ss):
                 details[r[0]] = entry["Detail"]
             # web-miss = web-searched, no confident match found; kept so future
             # sweeps know not to re-search. Sector stays "unknown".
-            if entry["Method"] in ("manual", "llm", "domain", "self", "web", "web-miss"):
+            if entry["Method"] in ("manual", "self", "org-name", "email-domain",
+                                   "web-found", "web-no-match",
+                                   # legacy names, pre-July-2026 rows
+                                   "llm", "domain", "web", "web-miss"):
                 cache[r[0]] = entry
     return ws, cache, details
 
@@ -274,7 +277,7 @@ def main():
         detail = details.get(key, "")
         sector, conf = rule_classify(name, org, email)
         if sector:
-            out_rows.append([key, name, org, sector, "rule", conf, now, detail])
+            out_rows.append([key, name, org, sector, "auto-rule", conf, now, detail])
         elif org and not args.no_llm:
             out_rows.append([key, name, org, "unknown", "none", "", now, detail])
             pending_llm.append((len(out_rows) - 1, org))
@@ -293,7 +296,7 @@ def main():
         for idx, org in pending_llm:
             sector = org_map.get(org)
             if sector:
-                out_rows[idx][3:7] = [sector, "llm", "medium", now]
+                out_rows[idx][3:7] = [sector, "org-name", "medium", now]
 
     # Rewrite the tab: it's derived data, and manual rows were carried over.
     cache_ws.clear()
