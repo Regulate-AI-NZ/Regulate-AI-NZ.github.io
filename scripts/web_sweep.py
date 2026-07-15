@@ -176,6 +176,11 @@ def main():
                         help="use Gemini's built-in Google Search grounding "
                              "instead of Brave (requires billed project; "
                              "~$35/1k queries — use when Brave quota is out)")
+    parser.add_argument("--retry-no-info", action="store_true",
+                        help="re-search web-no-match rows where the miss was "
+                             "lack of information (skips ambiguous-name and "
+                             "unsearchable misses, which a better search "
+                             "cannot fix); pair with --grounded")
     parser.add_argument("--verify-rules", action="store_true",
                         help="re-check rule-classified rows (e.g. 'Dr' may be a "
                              "medical doctor, not academic) and fill in Detail; "
@@ -197,6 +202,14 @@ def main():
             if method not in ("rule", "auto-rule") or detail:
                 continue  # only unchecked rule rows
             pending.append((i, name, org, sector, False))
+        elif args.retry_no_info:
+            if method != "web-no-match":
+                continue
+            d = detail.casefold()
+            if "unsearchable" in d or any(w in d for w in (
+                    "multiple", "ambig", "several", "different people", "various")):
+                continue  # identity ambiguity — a better search can't fix it
+            pending.append((i, name, org, None, False))
         else:
             if method != "none":
                 continue
