@@ -61,7 +61,7 @@ def make_banner(total):
     return (
         '<div class="sig-banner"><style>' + css + '</style>'
         '<div class="lead"><div class="num">' + f"{total:,}"
-        + '<small>public signatories and counting, from every corner of working life</small></div></div>'
+        + '<small>public signatories, from every corner of working life.</small></div></div>'
         '<div class="bars"><h4>Sectors represented (' + BANNER_ASOF + ')</h4>'
         + rows + '</div></div>'
     )
@@ -134,7 +134,7 @@ def main():
     # Generate the new section
     today = datetime.datetime.now().strftime("%d/%m/%y")
 
-    new_section = f"{marker} ({count} and counting)\n\n"
+    new_section = f"{marker}\n\n"
     new_section += f"_As of {today}_\n\n"
     new_section += make_banner(count) + "\n\n"
     new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}})" + "\n\n"
