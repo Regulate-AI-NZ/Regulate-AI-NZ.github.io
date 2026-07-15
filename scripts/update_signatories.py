@@ -21,6 +21,11 @@ BANNER_SECTORS = [
 BANNER_ASOF = "July 2026"
 
 
+def floor_to_ten(value):
+    """Return value rounded down to the nearest 10."""
+    return (int(value) // 10) * 10
+
+
 def make_banner(total):
     """Return the compact signatory banner as a single blank-line-free HTML
     block (kramdown passes contiguous top-level HTML through untouched)."""
@@ -48,7 +53,7 @@ def make_banner(total):
     rows = "".join(
         f'<div class="brow"><span class="bl">{label}</span>'
         f'<span class="bt"><span class="bf" style="width:{width}%"></span></span>'
-        f'<span class="bv">{n}+</span></div>'
+        f'<span class="bv">{floor_to_ten(n)}+</span></div>'
         for label, n, width in BANNER_SECTORS
     )
     return (
