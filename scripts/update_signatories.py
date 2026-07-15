@@ -63,8 +63,7 @@ def make_banner(total):
         '<div class="lead"><div class="num">' + f"{total:,}"
         + '<small>public signatories and counting, from every corner of working life</small></div></div>'
         '<div class="bars"><h4>Sectors represented (' + BANNER_ASOF + ')</h4>'
-        + rows + '</div>'
-        '<p class="note">&hellip;plus other sectors still being classified.</p></div>'
+        + rows + '</div></div>'
     )
 
 
@@ -138,7 +137,7 @@ def main():
     new_section = f"{marker} ({count} and counting)\n\n"
     new_section += f"_As of {today}_\n\n"
     new_section += make_banner(count) + "\n\n"
-    new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}}).  \n\n"
+    new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}})" + "\n\n"
     new_section += "If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  \n\n"
     new_section += "\n".join(formatted_signatures)
     
