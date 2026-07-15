@@ -114,7 +114,15 @@ def brave_search(api_key, name):
 _active_model = [None]  # sticky: once a model works, stop retrying the others
 
 
-def gemini_judge(client, name, results_text, context=""):
+def gemini_judge(client, name, results_text, context="", grounded=False):
+    from google.genai import types
+
+    config = None
+    if grounded:
+        results_text = ("(none supplied — you have the Google Search tool: "
+                        "search for this person yourself, in NZ context)")
+        config = types.GenerateContentConfig(
+            tools=[types.Tool(google_search=types.GoogleSearch())])
     contents = PROMPT.format(name=name, context=context,
                              results=results_text or "(no results)",
                              sectors=", ".join(SECTORS))
@@ -126,7 +134,8 @@ def gemini_judge(client, name, results_text, context=""):
     for round_ in range(2):
         for model in models:
             try:
-                response = client.models.generate_content(model=model, contents=contents)
+                response = client.models.generate_content(
+                    model=model, contents=contents, config=config)
                 _active_model[0] = model
                 break
             except Exception as e:
@@ -163,6 +172,10 @@ def main():
     parser.add_argument("--delay", type=float, default=1.5,
                         help="seconds between names (Brave free tier is 1 req/sec, "
                              "which is the binding rate; paid Gemini has ample RPM)")
+    parser.add_argument("--grounded", action="store_true",
+                        help="use Gemini's built-in Google Search grounding "
+                             "instead of Brave (requires billed project; "
+                             "~$35/1k queries — use when Brave quota is out)")
     parser.add_argument("--verify-rules", action="store_true",
                         help="re-check rule-classified rows (e.g. 'Dr' may be a "
                              "medical doctor, not academic) and fill in Detail; "
@@ -220,16 +233,19 @@ def main():
             # strip titles/descriptors for the search query itself
             search_name = re.sub(r"^(dr|prof(essor)?|assoc\w* prof\w*|emeritus prof\w*)\.?\s+",
                                  "", name.split(",")[0].strip(), flags=re.I)
-            query_extra = " " + org if org else ""
-            results_text = brave_search(brave_key, search_name + query_extra)
-            time.sleep(1.1)  # Brave free tier: 1 req/sec
+            results_text = ""
+            if not args.grounded:
+                query_extra = " " + org if org else ""
+                results_text = brave_search(brave_key, search_name + query_extra)
+                time.sleep(1.1)  # Brave free tier: 1 req/sec
             context = ""
             if args.verify_rules:
                 context = (f'\nThey signed with affiliation "{org}".' if org else "") + (
                     f'\nOur provisional rule-based guess is "{rule_sector}" — '
                     'note a "Dr" title may mean a medical doctor, vet, or other '
                     "clinician rather than an academic. Confirm or correct.\n")
-            sector, conf, evidence = gemini_judge(client, name, results_text, context)
+            sector, conf, evidence = gemini_judge(client, name, results_text,
+                                                  context, grounded=args.grounded)
             errors = 0
         except Exception as e:
             msg = str(e)
