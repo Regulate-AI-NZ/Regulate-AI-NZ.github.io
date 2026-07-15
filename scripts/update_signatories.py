@@ -17,6 +17,8 @@ BANNER_SECTORS = [
     ("Technology &amp; AI", 79, 28),
     ("Business", 71, 26),
     ("Health", 53, 19),
+    ("Education", 48, 17),
+    ("Law", 28, 10),
 ]
 BANNER_ASOF = "July 2026"
 
@@ -59,10 +61,10 @@ def make_banner(total):
     return (
         '<div class="sig-banner"><style>' + css + '</style>'
         '<div class="lead"><div class="num">' + f"{total:,}"
-        + '<small>signatories and counting &mdash; from every corner of working life</small></div></div>'
+        + '<small>public signatories and counting, from every corner of working life</small></div></div>'
         '<div class="bars"><h4>Sectors represented (' + BANNER_ASOF + ')</h4>'
         + rows + '</div>'
-        '<p class="note">&hellip;plus education, law and more.</p></div>'
+        '<p class="note">&hellip;plus other sectors still being classified.</p></div>'
     )
 
 
@@ -130,19 +132,12 @@ def main():
     # Split the file: Keep everything before the marker (Expert/Political signatories)
     pre_content, _ = content.split(marker, 1)
 
-    # Count expert + political signatories (all names between the Expert heading
-    # and the marker) so the banner's grand total stays live.
-    tail = pre_content.split("### Expert Signatories", 1)[-1]
-    extra = sum(1 for ln in tail.splitlines()
-                if ln.strip() and not ln.strip().startswith("#"))
-    total = count + extra
-
     # Generate the new section
     today = datetime.datetime.now().strftime("%d/%m/%y")
 
     new_section = f"{marker} ({count} and counting)\n\n"
     new_section += f"_As of {today}_\n\n"
-    new_section += make_banner(total) + "\n\n"
+    new_section += make_banner(count) + "\n\n"
     new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}}).  \n\n"
     new_section += "If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  \n\n"
     new_section += "\n".join(formatted_signatures)
