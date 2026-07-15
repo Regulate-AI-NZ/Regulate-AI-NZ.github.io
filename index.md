@@ -72,9 +72,9 @@ Dr Karaitiana Taiuru, Taiuru & Associates Ltd
 Chlöe Swarbrick, Green Party of Aotearoa New Zealand  
 Marama Davidson, Green Party of Aotearoa New Zealand
 
-### Public Signatories (1243 and counting)
+### Public Signatories (1242 and counting)
 
-_As of 14/07/26_
+_As of 15/07/26_
 
 Add your signature here: [Sign]({{ "/sign/" | relative_url }}).  
 If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  
@@ -133,7 +133,6 @@ Prof Steve Reeves, University of Waikato
 Ana McAllister  
 Justin Kim  
 Naashon Zalk  
-PJ Manney  
 Dr Harisu Shehu, Victoria University of Wellington  
 Kat Greenbrook  
 Josh Mortensen  
