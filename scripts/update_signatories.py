@@ -60,7 +60,7 @@ def make_banner(total):
     )
     return (
         '<div class="sig-banner"><style>' + css + '</style>'
-        '<div class="lead"><div class="num">' + f"{total:,}"
+        '<div class="lead"><div class="num">' + f"{total:,}+"
         + '<small>public signatories, from every corner of working life.</small></div></div>'
         '<div class="bars"><h4>Sectors represented (' + BANNER_ASOF + ')</h4>'
         + rows + '</div></div>'
@@ -111,6 +111,13 @@ def main():
     # Add 2 spaces for Markdown line breaks
     formatted_signatures = [s + "  " for s in unique_signatures]
     count = len(formatted_signatures)
+
+    # Headline count for the banner: total responses (every submission is a
+    # distinct signature), floored to the nearest 10 and shown as a minimum
+    # ("N+"). The de-duplicated list below merges the ~50 people who share a
+    # formatted name, so it undercounts real signatories; the headline reflects
+    # everyone who actually signed.
+    banner_count = len(raw_signatures) // 10 * 10
     
     # 3. UPDATE MARKDOWN FILE
     if not os.path.exists(MARKDOWN_FILE):
@@ -136,7 +143,7 @@ def main():
 
     new_section = f"{marker}\n\n"
     new_section += f"_As of {today}_\n\n"
-    new_section += make_banner(count) + "\n\n"
+    new_section += make_banner(banner_count) + "\n\n"
     new_section += f"Add your signature here: [Sign]({{{{ \"/sign/\" | relative_url }}}})" + "\n\n"
     new_section += "If you want to be added as an Expert Signatory (e.g. you are involved in AI research, oversight, or governance), please email Andrew or one of the other authors to arrange this.  \n\n"
     new_section += "\n".join(formatted_signatures)
